@@ -1,0 +1,2464 @@
+Edad,Hijos,T_credito,Sexo,Ingresos,Educacion,Automovil,Trabajo,Seguro
+33.76,4,<= 3,Masc,Medio,Univ,Sí,Dep,Si
+36.36,1,> 3,Masc,Bajo,Univ,Sí,Indep,No
+22.47,4,<= 3,Fem,Bajo,Bach,No,Dep,No
+45.17,NA,> 3,Masc,Alto,Univ,Sí,Indep,Si
+41.32,1,> 3,Masc,Medio,Bach,Sí,Indep,No
+24.2,0,> 3,Fem,Medio,Univ,No,Indep,No
+41.36,2,> 3,Masc,Medio,Bach,Sí,NA,Si
+28.16,4,NA,NA,Medio,NA,Sí,Indep,Si
+46.19,3,NA,NA,Bajo,Univ,Sí,Dep,Si
+38.36,1,> 3,Masc,Bajo,Bach,Sí,Indep,No
+27.55,1,<= 3,Masc,Medio,Bach,Sí,Dep,Si
+47.16,4,> 3,NA,Medio,Bach,No,Indep,No
+36.54,1,> 3,Masc,Medio,Bach,Sí,NA,Si
+24.86,NA,> 3,Masc,NA,Univ,Sí,Indep,No
+NA,4,> 3,NA,Medio,Bach,No,Indep,No
+29.83,1,<= 3,Masc,Alto,Univ,NA,Dep,Si
+30.7,NA,NA,Fem,Medio,NA,No,Indep,No
+26.68,NA,> 3,Masc,Bajo,Bach,Sí,Indep,No
+20.16,1,<= 3,Fem,Medio,Bach,No,NA,No
+43.98,0,> 3,Fem,Medio,Bach,No,Indep,No
+24.82,2,> 3,Fem,Alto,Bach,NA,Indep,Si
+32.89,1,> 3,Fem,Medio,Bach,No,Indep,Si
+20.55,3,<= 3,Fem,Medio,Univ,Sí,Dep,Si
+26.83,1,<= 3,NA,NA,Univ,No,Dep,Si
+33.21,NA,> 3,Masc,NA,Univ,Sí,Indep,No
+26.15,3,<= 3,NA,Bajo,Bach,Sí,Dep,Si
+47.26,1,> 3,Masc,Bajo,Bach,Sí,Indep,No
+48.69,2,> 3,Fem,Alto,Univ,Sí,Indep,Si
+35.69,NA,> 3,Masc,Alto,Univ,NA,Indep,No
+20.89,4,> 3,NA,Bajo,Bach,No,Indep,No
+42.6,0,NA,Masc,Medio,NA,Sí,Dep,Si
+48.86,1,> 3,Masc,Bajo,Bach,Sí,Indep,No
+42.21,1,<= 3,Fem,Medio,Univ,No,NA,Si
+31.75,4,> 3,Masc,Medio,Univ,Sí,Indep,Si
+31.8,0,> 3,Fem,Bajo,Univ,No,Indep,No
+39.48,1,<= 3,Fem,Alto,Bach,Sí,NA,Si
+34.98,0,NA,Masc,Medio,NA,Sí,Indep,No
+40.78,0,> 3,Fem,Medio,Univ,No,Indep,No
+26.62,3,<= 3,Masc,Bajo,NA,NA,Dep,Si
+NA,1,> 3,Masc,Bajo,Univ,Sí,NA,No
+37.02,4,> 3,Fem,Alto,Univ,Sí,Indep,No
+31.63,1,> 3,Fem,Bajo,Bach,No,Indep,No
+23.29,NA,> 3,Masc,Medio,Bach,Sí,Indep,No
+NA,1,<= 3,Masc,NA,Bach,NA,Dep,Si
+29.62,0,> 3,Fem,Medio,Univ,Sí,NA,Si
+NA,NA,<= 3,Masc,Medio,NA,Sí,Dep,Si
+22.09,1,> 3,Masc,Medio,Bach,NA,Indep,No
+30.78,1,<= 3,Masc,Bajo,Bach,Sí,Dep,Si
+22.96,0,> 3,Fem,Bajo,NA,Sí,Indep,No
+NA,NA,> 3,Masc,Medio,Bach,Sí,Indep,Si
+24.89,1,> 3,Masc,Bajo,Univ,Sí,Indep,No
+21.73,0,NA,Fem,Bajo,Bach,No,Dep,No
+32.83,1,<= 3,Fem,Alto,Bach,Sí,Dep,Si
+46.95,1,> 3,Masc,Alto,Bach,Sí,Indep,Si
+NA,3,NA,Fem,NA,NA,No,Indep,Si
+49.48,1,> 3,Masc,Medio,Bach,Sí,NA,Si
+31.82,1,> 3,Fem,Medio,NA,No,Indep,No
+27.49,4,> 3,Masc,Bajo,Bach,Sí,Indep,No
+36.23,1,> 3,NA,Medio,NA,NA,Indep,No
+35.08,0,<= 3,Masc,Medio,Bach,Sí,Indep,Si
+41.03,1,<= 3,Masc,Bajo,NA,Sí,Dep,Si
+25.71,0,> 3,Fem,Medio,Bach,No,Indep,No
+30.8,1,> 3,Fem,Bajo,Bach,No,Indep,No
+43.4,4,<= 3,Masc,Medio,Bach,Sí,Dep,Si
+21.84,NA,> 3,Masc,Medio,Bach,Sí,Indep,No
+33.94,4,<= 3,Masc,Alto,Univ,Sí,Dep,Si
+47.3,2,<= 3,Masc,Alto,NA,Sí,Dep,Si
+26.77,NA,> 3,Masc,NA,Univ,Sí,Indep,No
+45.52,2,> 3,NA,Medio,Bach,Sí,Indep,Si
+30.59,4,> 3,Masc,Bajo,Bach,Sí,Indep,No
+47.8,1,<= 3,Masc,Bajo,NA,NA,Dep,Si
+48.15,4,> 3,Fem,Alto,Bach,No,Indep,Si
+31.08,4,> 3,NA,Medio,Bach,No,Indep,No
+43.92,1,> 3,Fem,Alto,Univ,Sí,Indep,Si
+24.89,0,> 3,Fem,Bajo,Bach,No,Indep,No
+22.73,1,> 3,Masc,Bajo,Univ,Sí,Indep,No
+35.26,2,NA,Fem,Alto,Bach,Sí,Indep,Si
+47.28,1,> 3,Fem,Alto,Bach,Sí,Indep,Si
+NA,1,<= 3,NA,Bajo,Univ,Sí,Dep,Si
+22.61,NA,> 3,Fem,NA,Bach,No,Indep,No
+26.53,1,> 3,Fem,Medio,Bach,No,NA,No
+47.56,3,<= 3,NA,Medio,Bach,Sí,Dep,Si
+36.22,1,<= 3,Fem,Medio,Univ,No,Dep,No
+36.4,4,> 3,Masc,Medio,Bach,Sí,Indep,No
+NA,4,NA,Masc,Bajo,Bach,Sí,Indep,No
+NA,4,> 3,Fem,Medio,Univ,No,Indep,No
+NA,2,NA,Masc,Alto,Bach,Sí,Indep,Si
+20.97,1,> 3,Masc,Alto,Bach,Sí,Indep,Si
+25.23,1,> 3,Fem,Medio,Univ,NA,NA,No
+20.01,4,> 3,NA,Medio,NA,Sí,Indep,No
+36.03,1,<= 3,Masc,Medio,Bach,Sí,Dep,Si
+42.23,4,> 3,Fem,Alto,Bach,Sí,Indep,Si
+46.03,0,> 3,Masc,Medio,Bach,Sí,Indep,Si
+23.38,4,> 3,Fem,NA,Bach,No,Dep,No
+41.64,2,<= 3,Fem,Medio,Univ,Sí,Dep,Si
+NA,0,> 3,Fem,NA,Bach,No,Indep,No
+26.58,1,> 3,Masc,Alto,Bach,Sí,NA,No
+31.09,1,> 3,Fem,Alto,Bach,No,Indep,No
+35.35,0,NA,Masc,Alto,Bach,NA,Indep,Si
+26.86,4,<= 3,Masc,Medio,Univ,Sí,NA,Si
+20.61,4,NA,Fem,NA,Univ,No,Indep,No
+31.16,3,<= 3,Fem,Medio,Bach,Sí,Dep,Si
+24.87,0,> 3,Fem,Medio,Bach,No,Indep,No
+39.24,NA,<= 3,Fem,Medio,Bach,Sí,Dep,Si
+38.9,0,NA,Fem,Medio,Bach,Sí,Indep,Si
+28.82,1,NA,Masc,Medio,Bach,Sí,Indep,No
+35.45,2,<= 3,Fem,Alto,Univ,Sí,Dep,Si
+29.67,4,> 3,Fem,Bajo,Univ,No,Indep,No
+28.03,0,> 3,Masc,NA,Bach,Sí,Indep,Si
+36.5,1,> 3,Masc,Medio,NA,Sí,Indep,Si
+30.89,1,<= 3,Masc,Medio,Bach,Sí,Dep,Si
+21.9,3,> 3,NA,Medio,Bach,Sí,Indep,Si
+24.74,1,> 3,Masc,Bajo,Bach,Sí,NA,No
+38.66,3,> 3,Fem,Medio,Bach,Sí,Indep,Si
+NA,4,> 3,Fem,Bajo,NA,No,Indep,No
+39.27,2,> 3,NA,Medio,Univ,Sí,Indep,Si
+NA,1,<= 3,Fem,Medio,Bach,No,Dep,No
+27.93,4,> 3,Masc,NA,Bach,NA,Indep,No
+NA,2,<= 3,Masc,Alto,Bach,Sí,Dep,Si
+29.62,4,> 3,Fem,NA,Univ,No,Indep,No
+39.59,1,> 3,NA,Alto,Univ,Sí,Indep,Si
+26.83,0,<= 3,Fem,Alto,Univ,Sí,Dep,Si
+34.85,1,> 3,Masc,Alto,Bach,Sí,Indep,Si
+31.92,0,<= 3,Fem,Alto,Bach,Sí,Indep,Si
+38.6,4,<= 3,Fem,Alto,Bach,Sí,Dep,Si
+23.41,0,> 3,Fem,Bajo,Bach,No,Indep,No
+32.43,0,> 3,Fem,Medio,Univ,No,Indep,No
+26.07,3,NA,Masc,Alto,Univ,Sí,NA,Si
+29.03,0,> 3,Fem,Medio,Bach,Sí,Indep,Si
+35,NA,> 3,Masc,Bajo,Univ,Sí,Indep,No
+24.55,1,> 3,Masc,Medio,NA,Sí,Indep,Si
+33.45,1,<= 3,Masc,Medio,Bach,Sí,Dep,Si
+41.65,2,> 3,Fem,NA,Bach,Sí,NA,Si
+31.84,0,<= 3,Masc,Alto,Univ,Sí,Dep,Si
+28.5,2,> 3,Fem,Medio,Univ,Sí,Dep,Si
+29.88,4,<= 3,Fem,Medio,Bach,Sí,NA,Si
+31.29,1,> 3,Masc,Alto,Univ,Sí,Indep,Si
+NA,1,> 3,Fem,Bajo,Bach,No,NA,No
+28.55,2,<= 3,Masc,Medio,Bach,Sí,Dep,Si
+40.07,1,NA,Fem,NA,Bach,Sí,Dep,Si
+34.72,1,> 3,Fem,Bajo,Univ,No,Indep,No
+34.18,3,> 3,Masc,Medio,Bach,Sí,Indep,Si
+22.94,NA,> 3,Fem,Bajo,Bach,No,Indep,No
+29.87,NA,<= 3,NA,Medio,Bach,No,Dep,No
+40.78,3,<= 3,Masc,Alto,Bach,Sí,Dep,Si
+24.86,NA,<= 3,Masc,Alto,Bach,Sí,Dep,Si
+39.11,3,> 3,Masc,Medio,Bach,Sí,NA,Si
+27.37,1,<= 3,Masc,Medio,Univ,Sí,Indep,Si
+40.26,4,> 3,Fem,Medio,Bach,Sí,Indep,Si
+29.39,1,> 3,Fem,Medio,Univ,No,Indep,No
+29.31,2,<= 3,Masc,Medio,NA,Sí,Dep,Si
+32.79,0,NA,NA,Alto,Bach,Sí,Dep,Si
+26.41,1,> 3,Fem,Medio,NA,No,Indep,No
+36.09,4,NA,NA,Alto,Univ,Sí,Dep,Si
+36.15,2,<= 3,Fem,NA,Bach,No,Indep,Si
+25.84,NA,> 3,Masc,NA,Univ,Sí,Indep,No
+28.06,3,<= 3,Masc,Alto,Univ,Sí,Dep,Si
+34.75,1,> 3,Masc,NA,Univ,Sí,Indep,No
+26.72,4,> 3,Masc,Bajo,Bach,Sí,Dep,No
+NA,4,<= 3,Fem,Alto,Univ,Sí,Dep,Si
+20.57,4,> 3,Fem,Bajo,Bach,No,Indep,No
+44.15,4,<= 3,Masc,Medio,Bach,Sí,Indep,Si
+22.75,1,> 3,Masc,Alto,Univ,Sí,Indep,No
+30.66,NA,> 3,Masc,NA,Bach,Sí,Indep,No
+38.79,1,> 3,Masc,Alto,Univ,Sí,Indep,Si
+34.38,1,> 3,Fem,Medio,NA,Sí,Indep,Si
+36.23,4,> 3,Masc,Alto,Univ,NA,Indep,Si
+23.45,4,> 3,Fem,Bajo,Univ,No,Indep,No
+33.41,2,> 3,Masc,NA,Bach,Sí,Indep,Si
+34.35,3,> 3,NA,NA,Bach,Sí,NA,Si
+26.12,0,> 3,Fem,Medio,Univ,Sí,Indep,Si
+60.8,0,<= 3,Masc,Alto,Univ,NA,Dep,Si
+NA,1,> 3,Masc,Bajo,Univ,Sí,Indep,No
+37.57,0,> 3,Masc,Medio,Univ,Sí,Indep,No
+32.1,4,> 3,Fem,Medio,Bach,NA,NA,Si
+23.29,0,NA,Masc,Bajo,Bach,Sí,Dep,No
+21.92,2,<= 3,NA,Alto,Univ,Sí,NA,Si
+33.91,1,> 3,Fem,NA,Univ,No,Indep,No
+23.6,1,> 3,Fem,Bajo,Bach,No,Indep,No
+33.28,0,> 3,Fem,Bajo,Bach,No,Indep,No
+24.86,1,> 3,Fem,Medio,Bach,No,Indep,No
+29.36,0,<= 3,Masc,Bajo,Bach,Sí,Indep,Si
+28.5,2,<= 3,NA,Medio,Bach,Sí,Indep,Si
+23.96,NA,> 3,Masc,Bajo,Bach,Sí,Indep,No
+24.97,1,> 3,NA,Medio,Univ,NA,Indep,No
+NA,1,> 3,Fem,NA,Univ,No,Indep,No
+35.76,1,<= 3,Fem,Medio,Bach,Sí,NA,Si
+41.03,NA,<= 3,Masc,Alto,Bach,Sí,Dep,Si
+NA,4,NA,Fem,Alto,Bach,No,Indep,Si
+NA,NA,> 3,NA,Alto,NA,NA,Indep,Si
+NA,4,> 3,Fem,NA,Bach,Sí,Indep,Si
+40.53,NA,> 3,Masc,Alto,Univ,Sí,Indep,No
+27.84,1,> 3,Masc,Medio,Bach,Sí,Indep,No
+NA,1,> 3,Masc,Medio,Bach,Sí,Dep,No
+20.86,4,> 3,Fem,Medio,Bach,Sí,Indep,No
+28.74,1,> 3,Fem,Bajo,Bach,No,Indep,No
+35.06,0,<= 3,Fem,NA,NA,No,Dep,No
+23.68,2,<= 3,Masc,Alto,Bach,Sí,NA,Si
+21.62,NA,<= 3,NA,Alto,Bach,No,NA,Si
+23.29,1,> 3,Masc,Bajo,Bach,Sí,Indep,No
+29.91,NA,<= 3,Fem,Bajo,Bach,Sí,Dep,Si
+37.42,0,> 3,Fem,Medio,Univ,No,Indep,No
+44.47,1,<= 3,Masc,Medio,Bach,Sí,Dep,Si
+34.82,4,> 3,Fem,Bajo,Bach,No,Indep,No
+22.43,1,> 3,Fem,Medio,Univ,No,Indep,No
+25.21,1,> 3,Masc,Bajo,NA,Sí,Indep,Si
+46.11,2,> 3,Fem,Alto,Bach,Sí,Indep,Si
+NA,2,<= 3,Masc,Medio,Univ,NA,Dep,Si
+22.39,6,> 3,Masc,Bajo,Bach,Sí,Indep,No
+29,3,<= 3,Fem,Alto,Bach,NA,Dep,Si
+31.9,1,<= 3,Fem,NA,Bach,No,Indep,No
+NA,1,> 3,Masc,Bajo,Bach,Sí,Indep,No
+40.81,2,> 3,Fem,Medio,Univ,Sí,Indep,Si
+48.19,4,NA,Fem,Alto,NA,Sí,Dep,No
+35.87,1,<= 3,Fem,Alto,Bach,No,Dep,Si
+34.39,0,> 3,Masc,NA,Bach,Sí,Indep,No
+22.66,2,<= 3,Masc,Medio,Bach,Sí,Dep,Si
+29.61,4,NA,Fem,Medio,Bach,No,Dep,No
+NA,4,> 3,Masc,Medio,Univ,Sí,Indep,Si
+37.13,NA,> 3,Masc,NA,Univ,Sí,Indep,Si
+31.48,0,<= 3,Fem,Medio,Univ,No,Dep,No
+31.53,0,> 3,NA,Bajo,Univ,No,Indep,No
+36.45,0,> 3,Fem,Bajo,Univ,NA,Dep,No
+29.49,4,> 3,Fem,Medio,Bach,No,NA,No
+24.17,0,<= 3,Masc,Medio,Bach,Sí,Dep,Si
+58.36,2,NA,Masc,Medio,Bach,Sí,Indep,Si
+NA,0,> 3,Fem,Bajo,Bach,No,Indep,No
+44.67,4,NA,Masc,Medio,Bach,Sí,Dep,Si
+29.27,4,NA,Masc,Bajo,Bach,Sí,Indep,No
+NA,3,<= 3,Masc,Alto,Bach,Sí,Dep,Si
+20.99,1,> 3,Fem,Medio,Bach,No,Indep,No
+29.53,1,<= 3,Masc,Medio,Bach,Sí,Dep,Si
+41.06,6,> 3,Masc,Bajo,Univ,Sí,Indep,No
+22.18,1,<= 3,Masc,Bajo,NA,NA,Indep,No
+28.67,1,NA,Masc,Medio,Univ,Sí,Dep,No
+32.97,2,<= 3,Fem,Medio,Bach,Sí,Dep,Si
+40.45,4,> 3,Masc,Alto,Univ,Sí,Indep,Si
+31.46,2,> 3,Fem,NA,Univ,No,Indep,Si
+42.14,1,<= 3,NA,Alto,Univ,Sí,Dep,Si
+35.97,0,> 3,Fem,NA,Bach,NA,Indep,No
+30.41,0,> 3,Masc,Bajo,Bach,Sí,Indep,No
+43.27,2,<= 3,Masc,Alto,Univ,Sí,Dep,Si
+34.83,1,NA,Fem,Bajo,Bach,No,Indep,No
+28.15,1,> 3,Fem,Medio,Univ,No,Indep,No
+36.67,1,<= 3,Masc,Alto,NA,Sí,Dep,Si
+21.15,NA,> 3,Masc,Bajo,Univ,NA,Indep,No
+44.9,2,> 3,Fem,Medio,Univ,Sí,Indep,Si
+38.74,2,> 3,Fem,NA,Univ,Sí,NA,Si
+21.79,3,<= 3,Fem,Alto,Univ,Sí,Dep,Si
+24.48,4,> 3,Fem,Bajo,Univ,No,Indep,No
+NA,0,> 3,Masc,Bajo,Univ,Sí,Indep,No
+27.46,1,> 3,NA,Medio,Univ,No,Indep,No
+49.07,2,> 3,Fem,Alto,Bach,Sí,Indep,Si
+44.77,2,<= 3,Masc,NA,Univ,Sí,Dep,Si
+20.61,2,> 3,Fem,Alto,Bach,NA,Indep,Si
+28.91,NA,> 3,Masc,Medio,Bach,Sí,NA,Si
+28.23,4,> 3,Masc,Medio,Bach,Sí,Indep,Si
+34.04,4,> 3,Masc,Bajo,Bach,Sí,Indep,No
+49.62,1,> 3,NA,Bajo,NA,Sí,Indep,No
+37.7,1,NA,Fem,Medio,Bach,Sí,Indep,Si
+40.72,4,> 3,Fem,Bajo,Bach,Sí,Indep,Si
+33.94,NA,> 3,Fem,Bajo,Bach,No,Indep,No
+31.35,NA,> 3,Masc,Medio,Bach,Sí,Dep,No
+33.76,2,<= 3,Fem,Medio,Bach,Sí,Dep,Si
+25.23,1,> 3,Masc,Bajo,Bach,Sí,Indep,No
+44.95,2,> 3,Masc,Medio,Bach,Sí,NA,Si
+27.97,3,NA,Fem,Alto,Bach,Sí,Dep,Si
+24.94,0,> 3,Masc,Medio,Bach,Sí,Indep,Si
+56.91,4,NA,Fem,Alto,Univ,No,Dep,Si
+57.92,1,> 3,Masc,Alto,Bach,Sí,Indep,Si
+NA,3,> 3,Masc,Alto,Bach,Sí,Indep,Si
+39.17,1,<= 3,Masc,Medio,Bach,Sí,Dep,Si
+NA,1,> 3,Masc,Medio,Univ,Sí,Indep,No
+27.27,1,> 3,Fem,Medio,Univ,No,NA,Si
+NA,1,> 3,Fem,Bajo,Bach,No,NA,No
+NA,NA,> 3,Fem,Bajo,Univ,No,Indep,No
+27.97,1,<= 3,Fem,Alto,Univ,Sí,Dep,Si
+43.82,2,<= 3,Masc,Medio,Bach,Sí,Dep,Si
+NA,1,<= 3,Masc,Alto,Univ,Sí,Indep,Si
+37.79,1,> 3,Masc,Alto,Bach,Sí,Indep,No
+31.91,2,> 3,Masc,Medio,Univ,Sí,Indep,Si
+NA,1,> 3,Masc,Alto,Bach,Sí,Indep,Si
+46.02,0,<= 3,Masc,Bajo,Bach,Sí,Dep,Si
+34.32,0,> 3,Masc,Medio,Bach,Sí,Indep,No
+24.14,0,NA,NA,Bajo,Bach,Sí,NA,No
+37.61,0,> 3,Masc,Bajo,Univ,Sí,Indep,No
+27.1,1,> 3,Fem,Medio,Univ,No,Indep,No
+33.41,1,> 3,Fem,NA,Bach,NA,Indep,No
+47.22,2,> 3,Masc,Alto,Bach,Sí,Indep,Si
+25.01,4,> 3,Masc,Alto,Univ,Sí,Indep,No
+24.25,4,> 3,NA,Bajo,Univ,Sí,Indep,No
+26.91,2,> 3,Masc,NA,Bach,Sí,NA,Si
+50.14,1,> 3,Masc,Alto,Bach,Sí,Dep,Si
+36.42,4,> 3,NA,NA,NA,Sí,Indep,No
+30.29,0,> 3,Fem,Medio,NA,No,Indep,No
+27.81,NA,<= 3,Fem,Medio,Bach,No,Dep,No
+48.78,0,> 3,Fem,Medio,Bach,Sí,NA,Si
+31.82,NA,<= 3,Masc,Medio,Bach,Sí,NA,Si
+41.26,0,> 3,Fem,NA,NA,Sí,Indep,Si
+25.47,NA,> 3,Fem,Medio,NA,No,Dep,No
+37.31,0,<= 3,Masc,Bajo,Bach,Sí,NA,No
+20.45,1,> 3,Masc,Medio,Bach,Sí,Indep,No
+28.78,1,<= 3,Masc,Medio,Univ,Sí,Dep,Si
+29.62,2,NA,Masc,Alto,Bach,NA,Dep,Si
+22.06,1,> 3,Masc,Medio,Univ,Sí,Indep,No
+33.84,2,> 3,Fem,NA,Univ,Sí,Indep,Si
+23.89,0,> 3,Masc,Medio,Bach,Sí,Indep,No
+NA,2,> 3,Masc,Medio,Bach,Sí,Indep,Si
+33.73,0,> 3,Masc,Medio,Univ,Sí,Indep,No
+NA,4,> 3,Masc,Alto,Univ,Sí,Indep,No
+44.96,2,<= 3,Masc,Medio,Bach,Sí,Indep,Si
+NA,4,> 3,Masc,Medio,Bach,Sí,Indep,No
+33.51,NA,> 3,NA,Bajo,Bach,No,Indep,No
+27.77,1,> 3,Fem,Bajo,Univ,No,Indep,No
+34.4,2,<= 3,Fem,Medio,Univ,No,Dep,Si
+30.27,1,> 3,Masc,Bajo,Univ,Sí,Indep,No
+37.92,4,NA,Fem,Alto,Bach,Sí,NA,Si
+28.58,NA,> 3,NA,Medio,Univ,Sí,Indep,Si
+NA,0,<= 3,Masc,Alto,Univ,Sí,Dep,Si
+34.31,1,> 3,Fem,Bajo,Bach,NA,Indep,No
+24.69,NA,<= 3,Fem,Medio,Bach,No,NA,No
+39.65,3,> 3,Fem,Alto,Bach,Sí,Indep,Si
+36.55,2,> 3,NA,Alto,Univ,Sí,Indep,Si
+30.69,NA,> 3,Fem,Medio,Univ,Sí,Dep,Si
+33.48,1,> 3,Masc,Alto,Bach,Sí,Indep,No
+24.96,3,> 3,Fem,Alto,Bach,Sí,Indep,Si
+27.63,0,> 3,Masc,Bajo,Univ,Sí,Indep,No
+30.25,3,<= 3,Fem,Alto,Bach,No,Indep,Si
+20.93,1,> 3,Masc,Medio,Bach,Sí,Indep,No
+20.7,4,NA,Masc,Alto,Bach,Sí,Dep,Si
+22.07,1,> 3,Fem,Medio,Bach,No,Indep,No
+21.68,2,<= 3,Masc,Alto,Univ,Sí,NA,Si
+38.38,4,<= 3,Fem,Medio,Bach,NA,Dep,Si
+25.31,4,> 3,Fem,Bajo,Univ,Sí,Indep,No
+23.38,6,> 3,Masc,Medio,Univ,NA,Indep,No
+27.51,6,> 3,Masc,Medio,NA,Sí,Indep,No
+20.33,4,> 3,Fem,Alto,Bach,Sí,Indep,Si
+21.1,1,> 3,Fem,Bajo,Bach,Sí,Indep,No
+35.9,1,NA,Masc,Medio,Univ,Sí,Indep,No
+34.04,2,> 3,Fem,Medio,Univ,No,Indep,Si
+38.43,2,> 3,Masc,Medio,Bach,Sí,Dep,Si
+32.27,1,> 3,Masc,Bajo,Univ,Sí,Indep,No
+35.07,4,> 3,Masc,Medio,Univ,Sí,Dep,Si
+25.77,0,<= 3,Masc,NA,NA,Sí,Dep,Si
+27.7,1,<= 3,Masc,Alto,Univ,Sí,Dep,Si
+23.63,4,> 3,Fem,Medio,Univ,No,Indep,No
+41.06,NA,> 3,Fem,Alto,Univ,Sí,Indep,Si
+44.3,0,> 3,Fem,Bajo,Bach,No,Indep,No
+43.02,1,<= 3,Fem,Medio,Bach,Sí,Dep,Si
+33.45,0,> 3,Fem,Medio,Univ,Sí,Indep,Si
+32.6,NA,<= 3,Masc,Medio,Univ,NA,Dep,Si
+30.9,0,> 3,Fem,Bajo,Bach,No,Indep,No
+33.58,1,> 3,Masc,Medio,Bach,Sí,Indep,No
+28.76,1,> 3,Fem,Bajo,Bach,No,Indep,No
+36.83,4,> 3,Fem,Bajo,Bach,Sí,Indep,No
+41.74,3,NA,Fem,Alto,Bach,Sí,NA,Si
+NA,1,<= 3,Fem,NA,Univ,Sí,Dep,Si
+40.65,3,NA,NA,Bajo,Bach,Sí,NA,Si
+33.55,0,<= 3,Fem,Alto,Bach,Sí,NA,Si
+NA,4,NA,Masc,Medio,Bach,Sí,Dep,No
+27.47,0,<= 3,Fem,Alto,Bach,Sí,Dep,Si
+45.16,NA,> 3,Masc,Alto,Bach,Sí,Indep,Si
+43.97,0,> 3,NA,Medio,Bach,Sí,NA,Si
+NA,1,> 3,NA,Medio,Bach,No,Indep,No
+21.99,4,> 3,Fem,NA,Univ,No,Indep,No
+47.89,4,> 3,Fem,Alto,Bach,No,Indep,No
+40.81,4,> 3,Fem,NA,Univ,Sí,Indep,Si
+22.17,0,> 3,Masc,Bajo,Bach,Sí,Indep,No
+38.58,2,> 3,Fem,Alto,Univ,NA,Indep,Si
+38.27,NA,> 3,Masc,Alto,NA,Sí,Indep,No
+21.95,1,> 3,Masc,Medio,Univ,Sí,Indep,No
+31.59,0,NA,Masc,Alto,Bach,Sí,Indep,Si
+25.79,1,> 3,Fem,Alto,Bach,No,Dep,No
+38.4,0,> 3,Fem,NA,Bach,Sí,Indep,No
+47.47,3,> 3,Fem,NA,Univ,NA,Indep,Si
+44.06,4,<= 3,NA,Bajo,Bach,NA,Dep,Si
+27.87,NA,> 3,Masc,Alto,Bach,Sí,NA,Si
+30.12,0,> 3,Fem,Medio,Univ,No,Indep,No
+33.74,2,> 3,Masc,Medio,Univ,Sí,Indep,Si
+40.94,0,> 3,Fem,Medio,Univ,No,Dep,No
+24.16,NA,<= 3,Masc,Bajo,NA,Sí,Dep,Si
+25.65,4,> 3,Masc,Medio,Bach,Sí,Indep,No
+28.64,0,> 3,Masc,Medio,Bach,Sí,Indep,Si
+38.84,NA,<= 3,Masc,Medio,Univ,Sí,Dep,Si
+33.56,2,NA,Fem,Alto,Univ,No,Indep,Si
+42.5,1,<= 3,Masc,Alto,Univ,Sí,Dep,Si
+31.5,2,> 3,Masc,Medio,Univ,Sí,Indep,Si
+27.88,1,> 3,Fem,Medio,Univ,No,Indep,No
+51,1,> 3,Masc,Alto,Bach,Sí,Dep,Si
+39.07,1,> 3,Masc,Medio,Bach,Sí,Indep,Si
+NA,1,> 3,Fem,Medio,NA,No,Indep,No
+33.28,4,> 3,Fem,Bajo,NA,No,Indep,No
+38.29,2,<= 3,NA,Medio,Bach,Sí,Indep,Si
+30.49,2,<= 3,Masc,Medio,Univ,Sí,Dep,Si
+32.04,4,NA,Masc,Bajo,Bach,Sí,Dep,Si
+46.52,3,<= 3,Masc,NA,Bach,Sí,Indep,Si
+34.51,0,> 3,Fem,Bajo,Bach,No,Indep,No
+21.97,0,<= 3,Masc,Alto,Univ,Sí,Dep,No
+29.58,5,> 3,Masc,Alto,Bach,Sí,NA,No
+29.25,6,NA,Masc,Medio,Bach,Sí,Indep,No
+35.35,3,<= 3,Masc,Medio,Bach,Sí,Dep,Si
+35.56,1,> 3,Fem,Bajo,NA,Sí,Dep,No
+29.79,2,> 3,Masc,Medio,Univ,Sí,Indep,Si
+NA,NA,> 3,Fem,Medio,Bach,No,Indep,No
+39.8,4,> 3,Fem,Bajo,Bach,No,Indep,No
+46.54,1,> 3,Masc,NA,Univ,Sí,Indep,No
+25.63,6,> 3,Masc,NA,Univ,NA,Dep,No
+52.57,2,<= 3,Masc,Medio,Bach,Sí,NA,Si
+34.67,4,<= 3,Masc,NA,NA,Sí,Dep,No
+27.46,5,NA,Masc,Bajo,Univ,Sí,Indep,No
+22.9,1,> 3,NA,Bajo,Univ,NA,Indep,No
+34.32,0,<= 3,Masc,Alto,Bach,Sí,Dep,Si
+NA,2,<= 3,Fem,Medio,Univ,Sí,Indep,Si
+38.17,NA,> 3,Masc,Medio,Univ,Sí,Indep,Si
+NA,2,<= 3,Fem,Alto,Bach,NA,Dep,Si
+31.96,3,<= 3,Fem,Medio,Bach,Sí,Dep,Si
+39.2,4,> 3,Masc,Alto,Bach,NA,Indep,Si
+42.73,2,<= 3,Masc,Medio,Bach,Sí,Dep,Si
+39.53,1,> 3,Masc,NA,Univ,Sí,Indep,No
+NA,1,> 3,Fem,Bajo,Bach,Sí,Indep,No
+34.54,5,> 3,Masc,Bajo,Bach,Sí,Indep,No
+32.7,1,> 3,Fem,NA,Univ,No,Indep,Si
+41.66,3,NA,Masc,Medio,Univ,Sí,NA,Si
+31.63,2,<= 3,Fem,NA,Univ,No,Dep,Si
+33.53,2,> 3,Masc,Alto,Bach,Sí,Indep,Si
+26.34,0,> 3,Fem,NA,Bach,Sí,Indep,Si
+20.54,NA,> 3,Fem,Bajo,Bach,No,Indep,No
+20.18,5,> 3,Fem,Medio,Univ,No,Indep,No
+49.36,2,<= 3,Masc,Bajo,Bach,Sí,NA,Si
+NA,2,<= 3,NA,Alto,Bach,No,Indep,Si
+42.47,4,> 3,Masc,Medio,Bach,Sí,Indep,No
+20.91,5,> 3,Masc,Medio,NA,Sí,Indep,No
+35.6,5,NA,Fem,Bajo,Univ,Sí,NA,No
+55.33,2,<= 3,Fem,Medio,NA,No,Dep,Si
+43.42,NA,> 3,Fem,Medio,Bach,No,Indep,No
+32.3,2,> 3,Fem,Medio,NA,No,Indep,Si
+44.65,2,> 3,Fem,Alto,Bach,Sí,Indep,Si
+41.19,1,<= 3,Masc,Bajo,Bach,Sí,Dep,Si
+42.43,4,NA,Masc,Bajo,Bach,Sí,Indep,No
+40.37,3,NA,Masc,Alto,Bach,NA,Indep,Si
+47.71,2,> 3,Masc,Alto,Bach,Sí,Indep,Si
+48.65,2,<= 3,NA,Alto,Bach,Sí,Dep,Si
+32.8,1,NA,Masc,Alto,Univ,Sí,Dep,Si
+29.73,4,<= 3,NA,Alto,Bach,Sí,Dep,No
+26.81,5,> 3,NA,Medio,Bach,NA,Indep,No
+56.68,0,> 3,Fem,Bajo,Univ,NA,Indep,No
+NA,0,> 3,Masc,Bajo,NA,Sí,Indep,No
+54.12,1,NA,Masc,Medio,Bach,Sí,Dep,Si
+29.5,5,> 3,Fem,Bajo,Univ,No,NA,No
+31.2,2,<= 3,Fem,NA,Bach,Sí,Dep,Si
+50.92,3,> 3,NA,Alto,NA,Sí,Indep,Si
+39.34,NA,<= 3,Masc,Alto,Univ,Sí,Dep,Si
+24.13,2,> 3,Fem,Medio,Bach,Sí,Indep,Si
+49.7,0,NA,NA,Alto,Univ,Sí,Dep,Si
+44.86,3,NA,Masc,Alto,Bach,Sí,Dep,Si
+22.57,4,NA,NA,Alto,Bach,Sí,Indep,No
+26.12,1,<= 3,Masc,Medio,Univ,Sí,Dep,Si
+41.94,2,<= 3,Masc,Medio,Univ,Sí,Dep,Si
+34.2,2,<= 3,Masc,Alto,Univ,Sí,Dep,Si
+31.95,2,<= 3,Masc,Alto,Bach,Sí,Dep,Si
+21.11,4,> 3,NA,Medio,Bach,Sí,Indep,No
+21.29,2,<= 3,Fem,Bajo,Bach,Sí,Dep,Si
+30.54,3,<= 3,Masc,Bajo,NA,Sí,Dep,Si
+26.88,3,> 3,Masc,Alto,Bach,Sí,Dep,Si
+40.8,5,> 3,Masc,NA,Univ,Sí,Indep,No
+24.31,1,> 3,Masc,Alto,Bach,Sí,Dep,Si
+46,1,> 3,Masc,Alto,Univ,Sí,Indep,Si
+40.29,0,> 3,Fem,Medio,Univ,NA,Indep,No
+38.58,3,> 3,Masc,Alto,Bach,Sí,Indep,Si
+50.41,0,<= 3,Masc,Medio,Univ,NA,Dep,Si
+31.41,4,> 3,Masc,Bajo,Bach,Sí,Indep,No
+30.24,2,> 3,Masc,Medio,Bach,Sí,Indep,Si
+38.75,4,> 3,Masc,Medio,Univ,Sí,Indep,Si
+49.27,NA,> 3,Fem,Alto,Bach,No,Indep,Si
+37.52,2,> 3,Fem,Alto,Bach,Sí,Indep,Si
+25.67,4,> 3,Masc,Alto,Bach,Sí,Indep,No
+32.73,5,> 3,Fem,Medio,Bach,No,NA,No
+33.5,4,> 3,NA,Alto,Bach,Sí,Indep,Si
+34.51,4,<= 3,NA,Alto,Bach,Sí,Dep,Si
+31.92,2,> 3,Masc,Alto,Bach,Sí,Indep,Si
+30.44,2,<= 3,Masc,Alto,Bach,Sí,Dep,Si
+43.54,3,> 3,Fem,Medio,Bach,No,Indep,Si
+32.83,1,<= 3,Masc,Medio,Bach,Sí,Dep,Si
+30.86,NA,> 3,NA,NA,NA,Sí,Indep,Si
+25.21,0,<= 3,Fem,Medio,Univ,Sí,Dep,Si
+35.91,1,> 3,Fem,Medio,Bach,Sí,NA,Si
+42.09,3,<= 3,Fem,Bajo,Bach,Sí,Dep,Si
+35.01,0,> 3,NA,Medio,Univ,No,Indep,No
+41.69,2,> 3,Masc,Alto,Bach,Sí,Indep,Si
+NA,2,<= 3,NA,Medio,Bach,No,Dep,Si
+45.74,5,<= 3,Fem,Bajo,Bach,No,Dep,No
+36.62,1,> 3,Masc,Bajo,Bach,Sí,Indep,No
+48.83,1,<= 3,Fem,Medio,Bach,NA,NA,Si
+47.37,1,> 3,Fem,Medio,Bach,Sí,Indep,No
+21.19,3,> 3,Fem,Medio,Bach,Sí,Indep,Si
+39.26,4,> 3,Masc,Bajo,Univ,Sí,Indep,No
+22.56,1,> 3,Fem,Bajo,Bach,Sí,Indep,No
+23.04,0,> 3,Masc,Medio,Bach,Sí,NA,No
+33.35,2,<= 3,Fem,Alto,Bach,Sí,Dep,Si
+57.17,4,> 3,Masc,Medio,Univ,Sí,Indep,Si
+23.25,6,> 3,Masc,Medio,Univ,Sí,Indep,No
+NA,1,> 3,Fem,Alto,Univ,No,Dep,No
+22.38,0,> 3,Fem,Medio,Bach,No,Indep,No
+23.81,1,> 3,NA,Medio,Bach,Sí,Indep,Si
+NA,1,> 3,Fem,NA,Univ,No,Indep,Si
+36.11,0,<= 3,Masc,Bajo,Bach,Sí,NA,Si
+25.71,4,> 3,Masc,Alto,Bach,Sí,Dep,Si
+21.31,NA,NA,Fem,Medio,NA,NA,Dep,Si
+32.52,0,<= 3,NA,Alto,Bach,Sí,Dep,Si
+46.41,3,<= 3,Masc,Medio,Bach,Sí,Dep,Si
+30.94,4,<= 3,Masc,Alto,Bach,Sí,Dep,Si
+44.88,NA,<= 3,Fem,Medio,NA,Sí,Dep,Si
+24.16,4,NA,Fem,Bajo,Bach,No,Indep,No
+32.19,2,<= 3,NA,Alto,Bach,Sí,Dep,Si
+41.99,0,NA,Masc,Alto,Bach,Sí,NA,Si
+38.88,3,<= 3,Masc,Alto,Bach,Sí,Dep,Si
+52.69,2,> 3,Masc,Medio,Univ,Sí,Indep,Si
+26.52,NA,<= 3,Fem,Medio,Univ,No,Dep,No
+37.86,2,<= 3,Masc,Medio,Univ,Sí,Dep,Si
+44.34,1,<= 3,Masc,Alto,Univ,Sí,Dep,Si
+27.12,2,<= 3,Masc,NA,Bach,Sí,Dep,Si
+42.96,2,<= 3,Masc,Alto,Univ,Sí,NA,Si
+24.78,2,<= 3,Masc,Medio,Univ,Sí,Dep,Si
+22.1,0,NA,Fem,Medio,Bach,No,Indep,No
+42.65,4,> 3,Masc,Alto,Bach,Sí,NA,Si
+32.42,0,NA,Fem,NA,NA,NA,NA,No
+22.22,5,<= 3,Fem,NA,Bach,No,Dep,No
+20.95,1,<= 3,Fem,Bajo,Univ,No,Indep,No
+NA,2,> 3,NA,NA,Bach,Sí,Dep,Si
+21.55,0,NA,Fem,Bajo,Univ,No,Indep,No
+39.01,3,<= 3,Fem,Bajo,Bach,Sí,Dep,Si
+41.59,2,> 3,Masc,Alto,Univ,Sí,Indep,Si
+29.44,5,> 3,Masc,Medio,Univ,Sí,Indep,No
+29.32,0,<= 3,Fem,NA,Univ,No,Dep,No
+49.51,NA,> 3,NA,Medio,Bach,No,NA,Si
+27.21,1,> 3,Masc,NA,NA,Sí,NA,No
+26.55,1,<= 3,Masc,Medio,Univ,Sí,NA,Si
+26.96,NA,> 3,Masc,NA,Bach,Sí,Indep,No
+36.36,1,> 3,Masc,Medio,Bach,Sí,Indep,No
+NA,2,> 3,Masc,Medio,Bach,Sí,Dep,Si
+41.93,4,> 3,Fem,Medio,Bach,No,Indep,Si
+22.63,2,<= 3,Masc,NA,Univ,Sí,Dep,Si
+40.04,5,> 3,Masc,Medio,Bach,Sí,Indep,No
+39.15,4,> 3,NA,Bajo,Bach,No,Indep,No
+28.49,2,> 3,Masc,NA,Bach,Sí,Indep,Si
+43.13,2,<= 3,Masc,Alto,Univ,Sí,Dep,Si
+23.86,5,> 3,Masc,Bajo,Univ,Sí,Indep,No
+32.43,4,NA,Fem,Medio,Bach,Sí,Dep,No
+29.94,NA,> 3,Fem,Medio,Univ,Sí,Indep,No
+39.98,0,> 3,Fem,Alto,Univ,Sí,Indep,Si
+36.23,2,> 3,Fem,Alto,Bach,Sí,Indep,Si
+27.44,0,NA,Fem,Bajo,Bach,No,NA,No
+27.18,1,NA,Fem,Medio,Univ,NA,Indep,No
+49.21,2,> 3,Fem,Alto,Bach,Sí,NA,Si
+32.66,3,> 3,Fem,Alto,Univ,Sí,Indep,Si
+NA,5,NA,Fem,Bajo,Bach,No,Indep,No
+20.38,3,> 3,Fem,Bajo,Bach,No,Indep,No
+31.9,2,<= 3,Fem,Alto,Bach,Sí,Dep,Si
+NA,2,> 3,Masc,Medio,Bach,Sí,Indep,Si
+35.4,2,> 3,Masc,Medio,NA,Sí,Indep,Si
+29.15,3,> 3,Fem,Alto,Univ,No,Indep,Si
+NA,0,> 3,Fem,Medio,Bach,Sí,Dep,Si
+48.63,2,> 3,Fem,Alto,Bach,Sí,Indep,Si
+36.1,4,> 3,Masc,Alto,Bach,Sí,Indep,Si
+24.68,0,> 3,Fem,Medio,NA,No,Indep,No
+20.02,0,> 3,Masc,NA,Univ,Sí,Indep,No
+36.2,3,<= 3,NA,Medio,NA,Sí,Dep,Si
+NA,5,> 3,Fem,Bajo,Univ,NA,Indep,No
+27.92,1,<= 3,Fem,Alto,Bach,No,Dep,Si
+45.48,0,<= 3,Masc,Alto,Bach,Sí,Dep,Si
+45.88,2,NA,Fem,Alto,Bach,Sí,Indep,Si
+34.82,4,> 3,Fem,Alto,Bach,Sí,Indep,Si
+29.11,0,> 3,Fem,Medio,Bach,Sí,Indep,No
+30.93,1,<= 3,Masc,Medio,Univ,NA,Dep,Si
+43,2,<= 3,Fem,Alto,Bach,No,Dep,Si
+41.06,NA,<= 3,Masc,Alto,Univ,Sí,Dep,Si
+38.33,0,> 3,Fem,NA,Bach,No,Dep,Si
+NA,NA,NA,Fem,Medio,Bach,No,Dep,No
+29.35,3,> 3,Fem,Medio,Bach,NA,Indep,No
+43.28,0,NA,Fem,Bajo,Bach,Sí,Indep,No
+34.89,2,NA,Masc,Bajo,Bach,NA,Dep,Si
+37.79,2,> 3,Masc,Medio,Univ,Sí,Indep,Si
+43.52,NA,> 3,Masc,Medio,Univ,Sí,Indep,Si
+33.74,5,<= 3,NA,NA,Univ,Sí,Dep,No
+44.46,3,<= 3,NA,Medio,Univ,Sí,Dep,Si
+44.02,2,> 3,NA,Alto,NA,NA,Indep,Si
+36.36,0,<= 3,Masc,NA,NA,Sí,Dep,No
+27.77,5,> 3,Masc,Medio,Bach,Sí,Indep,No
+38.42,2,> 3,Fem,Alto,Univ,Sí,Indep,Si
+34.17,2,> 3,Fem,Alto,Univ,Sí,Indep,Si
+42.99,2,> 3,Fem,Alto,Bach,Sí,Indep,Si
+36.29,NA,> 3,NA,Alto,Bach,No,Indep,Si
+23.84,5,> 3,Fem,Medio,Univ,NA,Dep,No
+26.07,2,NA,Masc,Bajo,Bach,Sí,Dep,No
+42.85,5,> 3,Masc,Bajo,Bach,Sí,Indep,No
+47.56,1,> 3,NA,Alto,Univ,Sí,Dep,Si
+47.16,NA,<= 3,Fem,Alto,Bach,Sí,Dep,Si
+NA,4,> 3,NA,Bajo,Univ,Sí,Dep,Si
+26.07,3,> 3,Masc,Medio,Univ,Sí,Indep,Si
+24.02,3,> 3,NA,Alto,Univ,Sí,Indep,No
+34.11,0,<= 3,Masc,Medio,Univ,Sí,Dep,Si
+22.72,0,> 3,NA,Medio,Bach,Sí,Indep,No
+NA,2,<= 3,Fem,Medio,Bach,Sí,Dep,Si
+41.32,0,> 3,Fem,Bajo,Univ,No,Indep,No
+33.49,0,<= 3,Masc,Medio,Bach,Sí,NA,Si
+38.87,2,> 3,Masc,NA,Bach,Sí,Indep,Si
+25.69,5,> 3,Masc,Bajo,Bach,Sí,Indep,No
+NA,1,> 3,Fem,Medio,Bach,No,Indep,No
+29.7,NA,<= 3,Fem,Medio,Bach,Sí,Dep,Si
+22.85,0,> 3,Masc,Medio,NA,Sí,Indep,No
+33.32,4,> 3,Fem,NA,Bach,Sí,Indep,Si
+50.9,1,> 3,Masc,Alto,Bach,Sí,Indep,Si
+35.9,2,<= 3,Fem,Medio,Bach,No,Dep,Si
+NA,1,<= 3,Masc,Medio,Univ,Sí,Indep,Si
+30.89,2,> 3,Fem,Medio,Bach,No,Indep,Si
+45.49,1,<= 3,Masc,Medio,Univ,Sí,Dep,Si
+36.42,4,> 3,NA,Bajo,Univ,Sí,Indep,Si
+35.13,4,<= 3,Fem,Medio,Univ,Sí,Dep,Si
+27.56,0,> 3,Masc,Medio,Bach,NA,Indep,No
+31.92,0,> 3,NA,Medio,NA,No,Indep,No
+44.5,4,> 3,Masc,Medio,Bach,NA,Indep,Si
+31.76,2,<= 3,Masc,Medio,Univ,Sí,Dep,Si
+32.6,2,<= 3,Masc,Medio,Bach,Sí,Indep,Si
+24.45,1,> 3,Fem,Medio,Univ,No,NA,No
+26.7,3,<= 3,Fem,Medio,Bach,NA,Dep,Si
+28.27,5,> 3,Masc,Bajo,Univ,Sí,Indep,No
+22.46,3,> 3,Fem,Alto,Bach,No,Dep,No
+31.99,2,> 3,Fem,NA,NA,Sí,Indep,Si
+24.44,3,> 3,Fem,Medio,Univ,No,Indep,No
+30.16,3,> 3,Fem,Medio,Univ,No,Indep,No
+24.86,3,> 3,Fem,Bajo,Bach,No,Indep,No
+32.23,0,> 3,Masc,Alto,NA,Sí,Indep,Si
+39.41,2,<= 3,Fem,NA,Bach,Sí,Dep,Si
+35.03,2,> 3,Fem,Medio,Bach,No,Dep,Si
+25.36,2,<= 3,Masc,Alto,Univ,Sí,Dep,Si
+45.17,4,<= 3,Masc,Medio,Bach,Sí,Dep,Si
+35.74,3,<= 3,Fem,Alto,Bach,No,Dep,Si
+47.1,NA,> 3,Masc,Medio,Bach,Sí,Indep,Si
+NA,3,NA,Fem,Medio,Univ,No,Indep,No
+20.52,1,> 3,Masc,Bajo,Univ,Sí,Indep,No
+28.19,2,<= 3,Fem,Alto,Univ,Sí,Dep,Si
+34.82,2,> 3,Masc,Alto,NA,Sí,Indep,Si
+27.32,2,> 3,Masc,Bajo,Univ,Sí,Indep,No
+32.57,4,> 3,Masc,NA,Bach,NA,Indep,Si
+50.42,1,<= 3,Fem,Medio,Univ,Sí,Dep,Si
+25.78,NA,> 3,Masc,Medio,Bach,NA,Indep,No
+21.93,3,> 3,Fem,Medio,Bach,No,Indep,No
+31.19,3,<= 3,Masc,Alto,Univ,Sí,Dep,Si
+36.9,NA,NA,Masc,Alto,Bach,Sí,Indep,Si
+35.44,2,<= 3,Masc,Medio,Bach,Sí,Dep,Si
+24.72,1,> 3,Fem,NA,NA,Sí,Indep,No
+24.24,3,> 3,Fem,Bajo,Bach,No,Indep,No
+20.84,NA,<= 3,Fem,Medio,Bach,No,Indep,No
+27.43,2,> 3,Fem,Bajo,Univ,No,Indep,No
+33.29,1,> 3,Fem,Medio,NA,No,Indep,No
+22.49,1,> 3,Fem,Bajo,NA,No,Indep,No
+24.45,0,> 3,Masc,Bajo,Bach,Sí,Indep,No
+42,2,> 3,Fem,Alto,NA,Sí,Indep,Si
+41.1,2,NA,Masc,Alto,Univ,Sí,Dep,No
+30.77,1,NA,Fem,Bajo,Univ,No,Indep,No
+42.81,0,NA,Masc,NA,Bach,NA,Indep,No
+52.12,4,<= 3,Masc,Medio,NA,Sí,Dep,Si
+22.5,3,> 3,Fem,Bajo,Univ,No,Indep,No
+29.77,0,> 3,Fem,NA,NA,Sí,Indep,No
+38.32,2,NA,Fem,Alto,Bach,NA,Indep,Si
+NA,2,> 3,Fem,Medio,Univ,No,Indep,No
+NA,1,NA,Fem,Medio,Univ,No,Indep,No
+22.01,2,> 3,Masc,Bajo,Univ,Sí,NA,No
+36.59,0,> 3,Masc,Alto,Univ,Sí,Indep,Si
+40.33,2,> 3,Fem,NA,NA,Sí,Indep,No
+21.34,0,NA,Masc,Medio,Bach,Sí,Dep,Si
+20.49,4,> 3,Masc,Bajo,Bach,Sí,Indep,No
+40.09,0,> 3,Masc,Alto,Bach,NA,Indep,Si
+25.98,NA,<= 3,Masc,Medio,Bach,Sí,Dep,No
+48.63,3,> 3,Masc,Medio,Univ,Sí,Indep,Si
+46.94,2,> 3,Masc,Bajo,Bach,Sí,Indep,Si
+23.03,3,> 3,Fem,Bajo,Univ,No,Indep,No
+26.95,2,> 3,Fem,Bajo,Bach,NA,Indep,No
+39.33,3,NA,Masc,Medio,Bach,Sí,Indep,Si
+41.49,4,> 3,Masc,Medio,Univ,Sí,Indep,Si
+49.35,2,> 3,Fem,Medio,Univ,Sí,NA,Si
+31.04,3,> 3,Masc,Bajo,Bach,Sí,Indep,No
+23.85,NA,> 3,Masc,Bajo,NA,Sí,Dep,Si
+20.14,0,> 3,Fem,Bajo,Bach,No,Indep,No
+25.35,NA,> 3,Fem,Medio,Bach,No,Indep,No
+41.49,2,<= 3,Fem,Alto,Bach,No,NA,Si
+38.36,4,> 3,Fem,Medio,Univ,No,NA,Si
+47.79,1,<= 3,Fem,Alto,Bach,Sí,Dep,Si
+20.94,1,NA,Masc,NA,Univ,Sí,Dep,No
+25.03,2,<= 3,Fem,NA,Bach,No,Dep,No
+35.77,3,> 3,Masc,Alto,NA,Sí,Indep,Si
+35.27,0,NA,Masc,Bajo,Bach,NA,Indep,No
+26.91,2,> 3,Fem,Bajo,Bach,Sí,Indep,No
+39.45,3,<= 3,Masc,Alto,NA,Sí,Dep,Si
+NA,1,> 3,Fem,Medio,Univ,Sí,Indep,No
+39.99,2,<= 3,Fem,Medio,Bach,Sí,Indep,Si
+41.31,3,<= 3,Fem,Alto,Bach,Sí,Dep,Si
+NA,1,<= 3,Masc,Alto,Univ,Sí,Dep,Si
+27.34,1,<= 3,Masc,Alto,Univ,Sí,Dep,Si
+54.68,1,> 3,Fem,Medio,NA,No,Indep,No
+NA,3,<= 3,NA,Bajo,Univ,NA,Dep,Si
+21.83,1,NA,NA,Medio,Univ,No,NA,No
+22.76,2,> 3,Fem,Bajo,Bach,No,Indep,No
+31.02,NA,> 3,Fem,Alto,Bach,Sí,Dep,Si
+27.4,4,> 3,NA,Bajo,Univ,Sí,Indep,No
+47.55,4,> 3,Fem,Alto,Bach,Sí,Dep,Si
+29.8,3,> 3,Fem,Medio,Univ,No,NA,No
+21.26,3,> 3,NA,Medio,Univ,Sí,Indep,No
+46.67,2,<= 3,Fem,Bajo,Univ,Sí,Dep,Si
+38.43,4,<= 3,Masc,Medio,Univ,Sí,Dep,Si
+NA,NA,NA,Masc,NA,Bach,Sí,Indep,No
+27.85,4,<= 3,Masc,Medio,Bach,Sí,Dep,Si
+46.95,3,> 3,Masc,Alto,Univ,Sí,Indep,Si
+43.09,2,<= 3,Fem,Medio,Bach,NA,Dep,Si
+46.98,2,> 3,Masc,Alto,NA,Sí,Indep,Si
+33.72,NA,> 3,Fem,Bajo,Bach,No,Indep,No
+25.61,1,> 3,Fem,Alto,Bach,Sí,Indep,Si
+31.19,0,<= 3,Masc,Alto,Bach,Sí,Dep,Si
+49.92,2,> 3,Masc,Alto,NA,Sí,Indep,Si
+27.58,3,> 3,Fem,Bajo,Univ,No,Indep,Si
+41.32,2,<= 3,Masc,Alto,Univ,Sí,Dep,Si
+34.09,2,> 3,Masc,Medio,Bach,Sí,Indep,Si
+24.54,5,> 3,Masc,Bajo,Univ,NA,Indep,No
+22.32,NA,> 3,Masc,Alto,Bach,Sí,Indep,Si
+22.32,2,> 3,Fem,Alto,Bach,No,Indep,No
+31.28,1,> 3,Fem,Medio,Bach,Sí,Indep,Si
+23.12,3,NA,Fem,Medio,Univ,Sí,Indep,No
+27.96,3,> 3,Fem,Medio,Univ,Sí,Indep,Si
+36.17,1,<= 3,Masc,Alto,Bach,Sí,Dep,Si
+30.96,4,<= 3,Masc,NA,Univ,Sí,NA,Si
+39.3,2,<= 3,Fem,Alto,Bach,Sí,Dep,Si
+29.62,6,> 3,Masc,Bajo,Bach,NA,Indep,No
+45.3,1,<= 3,Masc,Medio,Univ,Sí,Dep,Si
+30.62,1,> 3,Fem,Bajo,Univ,Sí,Indep,No
+NA,2,NA,Fem,Bajo,Bach,No,Dep,No
+41.3,4,<= 3,Masc,Alto,NA,Sí,Dep,Si
+31.11,0,<= 3,Masc,Alto,Univ,Sí,Dep,Si
+49.79,3,> 3,Fem,Alto,Univ,Sí,Indep,Si
+41.51,4,> 3,Masc,Alto,Bach,Sí,Indep,Si
+NA,2,> 3,Masc,Medio,Bach,Sí,Indep,Si
+20.23,1,> 3,Fem,Bajo,Bach,No,Indep,No
+NA,1,NA,Fem,Medio,Univ,No,NA,Si
+47.76,0,> 3,Fem,Alto,Univ,Sí,NA,Si
+25.98,1,> 3,Masc,Medio,Bach,Sí,Indep,No
+46.77,1,> 3,Fem,Bajo,Univ,NA,Indep,No
+26.42,3,> 3,Fem,Bajo,Univ,No,Indep,No
+39.39,0,> 3,Fem,Alto,NA,Sí,Indep,Si
+24.87,3,> 3,Fem,Bajo,Univ,Sí,Indep,No
+51.58,4,> 3,Masc,Bajo,Univ,Sí,Indep,No
+39.91,2,> 3,Masc,Medio,Univ,Sí,Indep,Si
+32.08,NA,NA,Masc,NA,Univ,Sí,Indep,No
+57.51,2,NA,Masc,Alto,Bach,Sí,Indep,Si
+27.99,3,> 3,Masc,Medio,NA,Sí,Indep,No
+34.43,3,> 3,Fem,Bajo,Bach,NA,Indep,No
+40.26,0,> 3,Masc,Bajo,Univ,Sí,Indep,Si
+21.5,4,NA,Masc,Medio,NA,Sí,NA,No
+29.92,4,> 3,Masc,Bajo,Bach,Sí,Indep,Si
+45.27,1,> 3,Fem,Medio,NA,Sí,Indep,Si
+28.44,2,<= 3,Fem,Alto,Bach,NA,Dep,Si
+58.69,3,> 3,Masc,Bajo,Bach,Sí,Indep,Si
+20.17,1,> 3,Masc,Bajo,Univ,Sí,Indep,No
+39.01,2,> 3,Fem,Medio,Bach,No,Indep,No
+NA,2,> 3,Masc,NA,Univ,Sí,Indep,Si
+22.59,0,> 3,Fem,Bajo,Bach,NA,Dep,No
+NA,0,> 3,Masc,Alto,Univ,Sí,Indep,No
+36.73,3,> 3,Fem,Bajo,Univ,Sí,Indep,No
+37.54,2,> 3,Masc,Medio,Univ,Sí,Indep,No
+NA,4,NA,Masc,NA,Bach,Sí,Dep,Si
+32.1,2,<= 3,Masc,Medio,Bach,Sí,Dep,Si
+33.31,3,> 3,Masc,Medio,NA,Sí,Indep,Si
+38.07,2,> 3,Fem,Bajo,Bach,No,Indep,No
+41.69,4,NA,Fem,Alto,Bach,NA,Dep,Si
+22.58,1,> 3,Fem,Alto,Bach,No,NA,No
+44.2,2,> 3,Masc,Medio,Bach,Sí,NA,Si
+47.44,3,> 3,Masc,Medio,NA,NA,Indep,No
+31.05,2,> 3,NA,Bajo,Univ,NA,Indep,No
+30.41,3,> 3,Fem,NA,Bach,Sí,Indep,No
+35.77,2,> 3,Masc,Alto,Univ,Sí,Indep,Si
+33.76,1,<= 3,NA,Medio,Univ,Sí,Indep,Si
+21.42,3,> 3,Masc,Medio,Bach,Sí,Indep,No
+NA,3,<= 3,Masc,Medio,Bach,Sí,Dep,Si
+NA,2,> 3,Masc,NA,Univ,Sí,Indep,Si
+46.42,4,<= 3,Masc,Medio,Bach,Sí,Dep,Si
+50.38,2,> 3,Fem,Alto,Bach,Sí,Indep,Si
+46.48,1,> 3,Masc,NA,Univ,Sí,Indep,No
+39.78,2,> 3,Masc,Alto,NA,Sí,Dep,Si
+22.32,3,> 3,Fem,Alto,Univ,Sí,Indep,Si
+28.09,NA,<= 3,Fem,Alto,Bach,Sí,Dep,Si
+26.81,0,> 3,Fem,Bajo,Bach,Sí,Indep,No
+46.55,NA,> 3,NA,Alto,Univ,Sí,Indep,Si
+48.15,4,> 3,Masc,Alto,Bach,Sí,Indep,Si
+29.08,2,<= 3,Masc,Alto,Bach,NA,Dep,Si
+48.2,1,> 3,Masc,Medio,Univ,Sí,Indep,Si
+23.08,0,> 3,Fem,Medio,Univ,No,Dep,No
+23.38,0,> 3,Masc,Medio,Bach,Sí,Indep,No
+44.77,2,<= 3,Fem,Bajo,Univ,Sí,Dep,Si
+28.27,1,<= 3,NA,Bajo,Bach,Sí,Dep,Si
+43.64,NA,<= 3,Masc,Medio,Bach,Sí,Dep,Si
+38.44,NA,<= 3,Fem,NA,Bach,No,Dep,Si
+NA,2,<= 3,Masc,Medio,Univ,Sí,Dep,Si
+25.77,1,<= 3,Masc,Medio,Univ,Sí,Dep,Si
+53.82,1,NA,Masc,Medio,Univ,Sí,Indep,No
+47.55,2,> 3,Fem,Alto,Bach,Sí,Indep,No
+30.32,3,> 3,Fem,Bajo,Bach,No,Indep,No
+30.96,0,> 3,Fem,Medio,Univ,No,Indep,No
+43.57,NA,> 3,Fem,Medio,Bach,No,Indep,No
+29.07,3,> 3,Fem,NA,Bach,Sí,NA,Si
+41.04,4,> 3,Masc,Alto,Bach,Sí,NA,Si
+46.62,3,> 3,Fem,Alto,Bach,Sí,Indep,Si
+29.48,1,> 3,Masc,Bajo,Bach,Sí,Dep,No
+24.44,3,> 3,Masc,Medio,Univ,Sí,Indep,Si
+23.32,0,> 3,Masc,Medio,Bach,Sí,Indep,No
+46.58,0,NA,Masc,Medio,NA,NA,Dep,Si
+NA,2,> 3,Fem,Alto,Bach,Sí,Indep,Si
+20.49,3,> 3,Masc,Bajo,Univ,Sí,Indep,No
+34.06,0,> 3,Fem,Medio,Bach,No,Indep,No
+NA,1,> 3,NA,Bajo,Univ,Sí,Indep,Si
+43.26,4,<= 3,Fem,Medio,Bach,Sí,Dep,Si
+24.69,3,> 3,Masc,Alto,Bach,Sí,Indep,Si
+38.43,2,<= 3,Fem,Alto,NA,Sí,Dep,Si
+23.64,NA,NA,Masc,Medio,Univ,Sí,Dep,Si
+42.85,1,<= 3,Masc,Medio,Univ,Sí,Dep,Si
+41.96,4,> 3,Fem,Alto,Bach,No,Indep,Si
+32.5,2,<= 3,Masc,Alto,Bach,Sí,Indep,Si
+28.21,1,> 3,Fem,Medio,Bach,Sí,Indep,No
+48.3,4,> 3,Fem,Alto,NA,Sí,Indep,Si
+29.84,1,<= 3,NA,Bajo,NA,No,Dep,No
+37.06,4,<= 3,Masc,Medio,Bach,NA,Dep,Si
+36.31,2,> 3,Fem,Medio,Bach,Sí,Indep,Si
+44.82,0,> 3,Fem,Bajo,Univ,No,Indep,No
+27.77,2,NA,Fem,Medio,NA,No,Dep,Si
+30.76,4,> 3,Masc,Medio,Bach,Sí,Indep,Si
+NA,1,> 3,Masc,Medio,Bach,Sí,Indep,Si
+41.22,NA,<= 3,Masc,Alto,Univ,Sí,Dep,Si
+32.35,0,<= 3,Masc,Medio,Bach,Sí,Dep,Si
+35.71,NA,<= 3,Masc,Medio,Univ,Sí,Dep,Si
+23.5,4,> 3,Masc,Medio,Bach,Sí,Indep,Si
+39.49,NA,<= 3,Masc,Medio,Bach,Sí,Dep,Si
+25.62,3,> 3,Fem,NA,Bach,No,Indep,No
+24.17,2,> 3,NA,NA,NA,Sí,Indep,Si
+37.79,0,> 3,Fem,Bajo,Bach,No,Indep,No
+27.96,2,NA,Masc,Bajo,Bach,Sí,Indep,No
+49.42,3,<= 3,Masc,Medio,Univ,Sí,Dep,Si
+30.56,NA,> 3,Fem,Alto,Univ,No,Indep,No
+40.12,1,NA,Masc,Alto,Univ,Sí,NA,Si
+NA,4,> 3,Fem,Alto,Bach,No,Indep,Si
+36.22,0,> 3,NA,Medio,Bach,No,Indep,No
+NA,2,> 3,Fem,Alto,Bach,Sí,NA,Si
+20.66,0,> 3,Fem,Bajo,Univ,NA,Indep,No
+24.78,2,> 3,Fem,Medio,NA,No,Indep,No
+39.32,3,NA,Masc,Alto,NA,Sí,Indep,Si
+32.02,3,NA,Masc,Medio,Univ,Sí,Indep,Si
+27.47,3,> 3,Fem,Alto,Bach,Sí,Indep,Si
+NA,2,> 3,Masc,Medio,Univ,Sí,Indep,No
+NA,3,> 3,Fem,Alto,Univ,No,Indep,No
+21.18,1,> 3,Masc,NA,Bach,Sí,Indep,No
+NA,3,<= 3,Masc,Alto,Univ,Sí,Dep,No
+59.23,2,> 3,NA,Alto,Univ,Sí,Indep,Si
+26.09,0,> 3,Fem,Bajo,Bach,No,Indep,No
+NA,2,<= 3,Masc,Alto,Bach,Sí,Dep,Si
+24.16,1,> 3,Fem,Bajo,Bach,No,Indep,No
+44.29,3,<= 3,Fem,Bajo,Bach,No,Dep,Si
+41.25,3,> 3,Masc,Alto,Univ,Sí,Indep,Si
+22.44,1,> 3,Fem,Alto,Bach,No,Dep,No
+NA,2,<= 3,Masc,Medio,Bach,Sí,Dep,Si
+37.77,2,> 3,Fem,Alto,Bach,Sí,Indep,Si
+63.35,0,<= 3,Masc,Medio,Bach,Sí,Dep,Si
+38.68,2,<= 3,Fem,Alto,Bach,Sí,Indep,Si
+23.78,2,NA,Masc,Medio,Univ,Sí,Indep,No
+31.35,3,> 3,Fem,NA,Univ,No,Dep,No
+28.89,1,<= 3,Masc,Medio,Univ,Sí,Dep,Si
+24.77,0,> 3,Masc,Medio,Bach,Sí,Indep,No
+27.76,3,<= 3,Fem,Medio,Univ,Sí,Dep,Si
+28.61,1,> 3,Masc,Medio,NA,Sí,Indep,No
+22.59,3,> 3,Masc,Medio,Univ,Sí,Indep,No
+41.66,3,<= 3,Masc,Alto,Univ,Sí,Indep,Si
+33.18,2,> 3,Fem,Bajo,Univ,No,Indep,No
+33.11,4,<= 3,Fem,Medio,Univ,Sí,Indep,Si
+45.04,3,> 3,Masc,Medio,NA,Sí,NA,No
+31.43,0,<= 3,Fem,Bajo,Univ,No,Dep,No
+42.44,3,> 3,Fem,Alto,Univ,No,Dep,Si
+38.41,3,<= 3,Fem,NA,Univ,Sí,Dep,Si
+22.65,2,NA,Fem,Medio,Univ,No,Indep,No
+28.36,1,> 3,Masc,Medio,Bach,Sí,Dep,Si
+21.33,NA,> 3,Fem,Bajo,Bach,Sí,Dep,No
+30.81,2,> 3,NA,NA,Univ,No,Indep,No
+NA,3,NA,Fem,Medio,Univ,No,Indep,No
+28.42,NA,NA,Fem,Bajo,Bach,NA,Indep,No
+26.8,0,> 3,Fem,Alto,Bach,No,Indep,No
+51.63,3,<= 3,NA,Medio,Bach,No,Dep,No
+42.09,0,<= 3,Masc,Medio,Bach,Sí,Dep,Si
+34.81,3,> 3,Masc,Medio,Univ,Sí,Indep,Si
+37.87,2,> 3,Masc,Medio,Bach,Sí,Dep,Si
+43.44,1,> 3,Masc,Medio,Bach,Sí,Indep,Si
+37.58,0,<= 3,NA,NA,Bach,Sí,Indep,Si
+21.01,1,> 3,Masc,Alto,Univ,Sí,Indep,Si
+32.04,NA,<= 3,Fem,Alto,Bach,NA,Dep,No
+NA,3,<= 3,Fem,Alto,Univ,Sí,Dep,Si
+40.62,0,> 3,Masc,Alto,Bach,Sí,Indep,Si
+47.28,3,<= 3,Fem,Alto,Univ,No,Dep,Si
+23.16,1,> 3,NA,Medio,Univ,Sí,Indep,No
+24.79,3,<= 3,Fem,Alto,Univ,Sí,Dep,Si
+NA,2,> 3,Masc,Alto,Bach,NA,Dep,Si
+52.77,NA,NA,Masc,Medio,Univ,Sí,NA,Si
+35.52,1,> 3,Masc,Medio,Bach,Sí,Indep,Si
+25.46,3,<= 3,Masc,Alto,Univ,Sí,Dep,Si
+21.97,0,NA,Fem,Medio,Bach,No,Indep,No
+41.23,3,<= 3,NA,Medio,Bach,No,Dep,Si
+21.51,2,> 3,Masc,Medio,Univ,Sí,Indep,Si
+30.6,3,> 3,Masc,Medio,Univ,Sí,Indep,No
+32.71,0,<= 3,Fem,Medio,Univ,No,Dep,Si
+36.29,2,NA,Masc,Medio,Bach,Sí,NA,Si
+25.38,2,<= 3,NA,Alto,Bach,NA,Indep,Si
+34.29,1,<= 3,Masc,Alto,Bach,Sí,Dep,Si
+43.22,0,> 3,Fem,Alto,Bach,Sí,Indep,Si
+31.21,4,> 3,Masc,Alto,Univ,Sí,Indep,Si
+43,1,> 3,Masc,Alto,Bach,Sí,Dep,Si
+25.58,5,> 3,Masc,Medio,NA,Sí,Indep,No
+26.69,3,> 3,Fem,Medio,NA,No,NA,No
+38.89,0,> 3,Fem,Bajo,Bach,No,Indep,No
+26.89,3,<= 3,Masc,Alto,Univ,Sí,NA,Si
+29.6,NA,NA,Fem,Medio,Bach,No,Dep,No
+24.17,1,> 3,Masc,NA,Bach,Sí,Dep,No
+26.77,2,> 3,Fem,Alto,Univ,Sí,Indep,Si
+39.79,2,NA,Masc,NA,Univ,Sí,Dep,Si
+40.39,3,> 3,Fem,Medio,NA,No,Indep,No
+27.7,NA,> 3,Masc,Alto,Univ,Sí,Dep,Si
+33.11,NA,<= 3,Fem,Medio,Bach,NA,Indep,Si
+43.16,3,<= 3,Fem,Alto,Bach,No,Dep,Si
+29.02,2,> 3,Masc,NA,Univ,Sí,Indep,No
+30.33,NA,> 3,Fem,Bajo,Bach,No,Indep,No
+33.71,3,> 3,Masc,Medio,Bach,Sí,Indep,No
+NA,1,<= 3,Masc,Alto,Bach,Sí,Dep,Si
+30.11,0,> 3,Fem,NA,Bach,Sí,Indep,Si
+42.74,NA,> 3,Fem,Alto,Bach,Sí,Indep,Si
+NA,1,<= 3,Masc,Medio,NA,Sí,Dep,Si
+37.98,3,<= 3,NA,Alto,Univ,Sí,Dep,Si
+NA,NA,NA,Masc,Alto,NA,NA,NA,Si
+47.59,3,<= 3,Fem,Alto,NA,Sí,Dep,Si
+35.49,3,> 3,Masc,Medio,Bach,NA,Indep,Si
+24.11,3,NA,Masc,Alto,Univ,Sí,Dep,Si
+42.43,2,<= 3,Fem,Alto,Bach,Sí,Dep,Si
+22.96,2,> 3,Fem,NA,Bach,No,Indep,No
+30.91,3,<= 3,Fem,Alto,Bach,Sí,Dep,Si
+42.97,NA,<= 3,Masc,Alto,Univ,Sí,Dep,Si
+33.27,0,> 3,Masc,Bajo,Univ,Sí,Indep,Si
+42.25,2,> 3,NA,NA,Univ,Sí,Indep,Si
+44.88,4,> 3,Fem,Medio,Bach,Sí,Indep,Si
+25.63,4,<= 3,Masc,Alto,Univ,Sí,Indep,Si
+26.56,4,<= 3,Masc,NA,Bach,NA,Dep,Si
+29.3,2,<= 3,Fem,Alto,NA,NA,NA,Si
+27.42,1,<= 3,Fem,Medio,Univ,Sí,Indep,Si
+26.07,0,> 3,Fem,Alto,Univ,NA,Dep,No
+28.66,0,NA,Masc,Alto,Univ,Sí,Dep,Si
+26.96,1,> 3,Masc,Bajo,Bach,Sí,Indep,No
+35.98,2,<= 3,Fem,Alto,Bach,Sí,Dep,Si
+33.81,2,> 3,Fem,Bajo,Univ,No,Indep,No
+21.66,NA,> 3,Masc,Bajo,Bach,Sí,Indep,No
+27.98,2,> 3,NA,Medio,Univ,No,Indep,No
+48.91,3,<= 3,Masc,Alto,Bach,Sí,Dep,Si
+35.28,3,<= 3,Masc,Alto,Bach,Sí,Dep,Si
+26.49,1,<= 3,Masc,Medio,NA,Sí,Dep,Si
+43.63,NA,> 3,Masc,Medio,Univ,Sí,Indep,Si
+33.94,3,<= 3,Fem,Alto,Bach,Sí,Dep,Si
+36.29,NA,> 3,Masc,Medio,Bach,NA,Indep,No
+25.86,3,> 3,Masc,Bajo,Bach,Sí,Indep,No
+37.23,0,> 3,Masc,Medio,Bach,Sí,NA,Si
+25.93,0,<= 3,Masc,Medio,Univ,Sí,NA,Si
+44.54,2,<= 3,NA,Medio,NA,Sí,NA,Si
+33.52,3,> 3,Fem,Alto,NA,Sí,Indep,Si
+20.37,4,NA,Masc,Bajo,Univ,Sí,Indep,No
+36.26,2,NA,Masc,Alto,Bach,Sí,NA,Si
+40.65,0,> 3,Masc,Medio,Univ,NA,Dep,No
+43.92,0,> 3,Fem,Medio,Bach,Sí,Indep,Si
+21.15,6,> 3,Masc,Bajo,Bach,Sí,Indep,No
+24.73,2,> 3,Fem,Alto,Univ,Sí,Indep,Si
+31.06,1,> 3,Masc,Bajo,Bach,NA,Indep,No
+32.67,1,> 3,Fem,Medio,Bach,No,Indep,No
+NA,0,> 3,Fem,NA,Bach,No,Indep,No
+42.19,0,<= 3,Masc,Medio,Univ,Sí,Dep,Si
+33.06,2,> 3,Masc,Medio,Bach,Sí,Indep,Si
+37.67,0,> 3,Fem,Alto,Bach,Sí,Dep,No
+49.08,2,<= 3,Masc,Alto,Univ,Sí,Indep,Si
+24.2,1,<= 3,Masc,Medio,Univ,Sí,Indep,Si
+23.73,5,> 3,Masc,Bajo,Bach,Sí,Indep,No
+33.13,3,<= 3,Masc,NA,Bach,NA,Indep,Si
+22.33,NA,> 3,Masc,Medio,Univ,Sí,Indep,No
+36.41,3,> 3,Fem,NA,Univ,No,Indep,No
+53.35,2,> 3,Masc,Alto,Bach,Sí,Indep,Si
+20.36,1,> 3,Fem,Medio,Bach,Sí,Indep,No
+31.07,2,> 3,Masc,Bajo,Bach,Sí,Dep,No
+37.12,NA,NA,NA,NA,Univ,NA,Dep,No
+39.61,2,> 3,Fem,Medio,Bach,NA,Indep,Si
+32.35,1,<= 3,Fem,Bajo,Univ,No,Dep,Si
+24.8,1,> 3,Fem,Bajo,Bach,No,Indep,No
+33.55,2,> 3,NA,Medio,NA,NA,Indep,Si
+44.75,2,<= 3,Fem,Medio,Bach,No,Dep,Si
+28.19,4,> 3,Masc,Alto,NA,Sí,Indep,Si
+33.13,0,NA,Masc,Medio,Univ,Sí,Indep,No
+38.99,1,<= 3,Masc,Medio,NA,Sí,Dep,Si
+39.43,3,> 3,Masc,Alto,Bach,Sí,Indep,Si
+44.54,3,> 3,Fem,Alto,Bach,Sí,NA,Si
+NA,2,> 3,NA,Alto,Bach,Sí,Indep,Si
+38.81,2,<= 3,Fem,Medio,Bach,Sí,Dep,Si
+25.84,2,> 3,Fem,Medio,Bach,Sí,Indep,Si
+30.61,3,<= 3,Fem,Alto,Univ,Sí,Dep,Si
+22.79,2,NA,Fem,Alto,Univ,No,Indep,No
+29.23,0,> 3,Fem,Medio,Univ,NA,Indep,No
+22.18,2,> 3,Masc,Alto,Univ,Sí,Dep,No
+43.07,2,> 3,Masc,Medio,Univ,Sí,Indep,Si
+26.73,0,> 3,Masc,Medio,Bach,Sí,Indep,Si
+46.51,1,> 3,Masc,Medio,Bach,Sí,Indep,Si
+34.65,3,<= 3,Fem,Alto,Univ,Sí,Dep,Si
+NA,0,<= 3,Masc,Alto,Univ,Sí,NA,Si
+53.67,2,<= 3,Masc,Bajo,Bach,Sí,Dep,Si
+31.59,0,> 3,Fem,Bajo,Univ,Sí,Dep,Si
+NA,2,> 3,Fem,Medio,Bach,Sí,Indep,No
+54.46,2,> 3,Masc,Alto,Bach,Sí,Dep,Si
+20.4,NA,<= 3,NA,Bajo,Bach,No,Indep,No
+39.68,3,<= 3,Masc,Medio,Bach,Sí,Dep,Si
+27.78,NA,<= 3,Fem,Alto,Univ,Sí,Dep,Si
+44.44,3,> 3,Fem,Medio,NA,No,Indep,Si
+23.16,0,> 3,Fem,Medio,Univ,Sí,Indep,Si
+NA,2,<= 3,Masc,Alto,NA,Sí,Dep,Si
+NA,2,> 3,Masc,Alto,Bach,NA,Dep,Si
+23.07,3,> 3,Fem,Medio,Univ,No,Indep,No
+33.34,4,> 3,Masc,Medio,Univ,Sí,Indep,Si
+30.41,2,> 3,Masc,Medio,Bach,Sí,NA,Si
+44.77,NA,> 3,Masc,Alto,Univ,NA,Indep,Si
+NA,3,<= 3,Fem,Alto,Bach,Sí,Dep,Si
+32.2,2,> 3,Fem,Bajo,Bach,No,NA,No
+21.39,2,> 3,Fem,Bajo,Bach,No,Indep,No
+37.32,1,NA,Fem,Bajo,Bach,No,Indep,No
+20.31,0,> 3,Masc,Medio,Bach,Sí,Indep,No
+39.17,0,> 3,Fem,Alto,Univ,Sí,Indep,No
+26.9,2,<= 3,Masc,Medio,Bach,Sí,NA,Si
+26.94,2,> 3,Fem,Bajo,Bach,NA,Indep,No
+30.65,NA,> 3,NA,Bajo,NA,No,Indep,No
+31.28,3,<= 3,Masc,Alto,Bach,Sí,Dep,Si
+32.71,3,<= 3,Masc,Alto,Bach,Sí,Dep,Si
+54.2,1,> 3,Masc,Medio,Bach,Sí,Indep,Si
+20.71,0,> 3,Fem,Medio,Univ,NA,Dep,No
+32.42,0,NA,Masc,Medio,Univ,Sí,Indep,No
+23.98,3,> 3,Fem,Bajo,Univ,No,Indep,No
+41.18,3,> 3,Fem,Medio,Univ,NA,Indep,Si
+36.45,3,> 3,Fem,Medio,Univ,No,Indep,No
+29.26,1,> 3,Fem,Bajo,Bach,No,Indep,No
+48.05,NA,> 3,Fem,Medio,Bach,Sí,Indep,Si
+35.47,2,> 3,Fem,Medio,Bach,Sí,Dep,Si
+28.5,3,> 3,Fem,Bajo,Bach,No,Indep,No
+59.09,1,> 3,NA,Bajo,Univ,Sí,Indep,Si
+26.09,2,> 3,Masc,Medio,Bach,NA,Indep,No
+34.1,3,<= 3,Masc,Alto,Univ,Sí,Dep,Si
+NA,2,> 3,Masc,Medio,NA,Sí,Indep,Si
+44.11,3,<= 3,Masc,Alto,Univ,Sí,Indep,Si
+33.13,3,> 3,Fem,Medio,Univ,Sí,Indep,Si
+44.62,2,> 3,Masc,Medio,Univ,Sí,Indep,Si
+NA,0,> 3,Masc,Alto,Bach,Sí,Indep,Si
+39.52,3,<= 3,Fem,Medio,Univ,No,Dep,Si
+34.17,1,NA,Masc,Bajo,Univ,Sí,Indep,No
+27.07,2,> 3,Masc,Alto,NA,NA,Indep,Si
+29.53,0,<= 3,Fem,Alto,Bach,No,Indep,Si
+35.33,0,<= 3,Masc,Medio,Bach,Sí,Dep,Si
+57.1,4,> 3,Fem,Alto,Univ,Sí,Dep,Si
+33.72,3,<= 3,Fem,Alto,Bach,No,Dep,Si
+44.11,0,> 3,Masc,Bajo,Bach,Sí,Indep,No
+20.42,3,<= 3,Fem,Bajo,Univ,No,Dep,No
+39.51,1,<= 3,Masc,Medio,Bach,Sí,NA,Si
+NA,0,> 3,Fem,Bajo,Univ,No,Indep,No
+27.99,4,> 3,Fem,Alto,NA,NA,Indep,Si
+38.16,NA,<= 3,Masc,Alto,Bach,Sí,Dep,Si
+29.93,4,NA,Fem,Medio,Bach,No,Dep,Si
+26.17,3,> 3,Fem,Medio,Bach,No,Indep,No
+35.89,2,> 3,Fem,Medio,Bach,Sí,Indep,Si
+38.31,3,> 3,Fem,Medio,Bach,Sí,Indep,Si
+38.38,NA,<= 3,Masc,Alto,Univ,Sí,Dep,Si
+28.75,3,> 3,Fem,NA,Bach,No,Dep,No
+51.28,3,> 3,Masc,Bajo,Univ,Sí,Indep,No
+NA,NA,<= 3,Fem,Alto,Bach,Sí,Indep,Si
+29.71,2,> 3,Masc,Alto,NA,Sí,Indep,Si
+26.41,2,> 3,Fem,Medio,Univ,Sí,Indep,No
+NA,3,> 3,Masc,NA,NA,Sí,Indep,Si
+26.66,3,NA,Masc,Bajo,Bach,Sí,Dep,No
+39.15,1,> 3,Fem,Bajo,Bach,No,Indep,No
+40.93,4,<= 3,Masc,Medio,Bach,Sí,Dep,Si
+30.24,2,> 3,NA,Alto,Univ,Sí,Indep,Si
+41.91,0,> 3,Masc,Medio,Univ,Sí,Dep,Si
+20.14,1,> 3,Fem,Medio,Bach,No,Indep,No
+39.11,3,> 3,Masc,Medio,Univ,Sí,Indep,Si
+NA,0,<= 3,Masc,Alto,Univ,Sí,Dep,Si
+23.66,2,> 3,Masc,Medio,Univ,Sí,Indep,Si
+37.66,2,> 3,NA,Alto,Bach,No,Indep,No
+30.09,0,> 3,Fem,Bajo,Univ,No,NA,No
+21.2,2,> 3,Masc,Alto,NA,Sí,Dep,Si
+27.17,3,NA,Fem,Bajo,NA,Sí,Dep,Si
+20.79,1,> 3,Fem,Medio,Univ,No,Indep,No
+35.47,NA,> 3,Masc,NA,Bach,Sí,Indep,No
+27.31,1,> 3,Masc,Medio,Bach,Sí,Indep,No
+37.57,1,NA,Masc,Alto,NA,Sí,NA,Si
+26.59,NA,> 3,Masc,Bajo,Bach,NA,Indep,Si
+29.05,3,> 3,Fem,Bajo,Bach,No,Indep,No
+59.46,0,> 3,NA,Alto,Bach,No,NA,Si
+32.93,0,NA,Fem,Bajo,Bach,No,Indep,No
+40.43,4,> 3,Masc,Bajo,Bach,Sí,NA,Si
+26.62,NA,> 3,Fem,NA,Bach,No,Indep,No
+NA,3,> 3,Masc,Bajo,Bach,NA,NA,No
+42.76,2,> 3,Masc,Bajo,Univ,Sí,Indep,No
+47.73,2,NA,Fem,Medio,Bach,Sí,Dep,Si
+38.14,1,NA,Fem,Bajo,Univ,No,Indep,No
+NA,1,> 3,Fem,Medio,Univ,No,Indep,Si
+40.73,0,> 3,Fem,NA,Univ,No,Indep,Si
+29.53,1,> 3,Masc,Alto,Univ,NA,Indep,No
+NA,2,> 3,Masc,Alto,Univ,Sí,Indep,Si
+NA,3,> 3,Masc,Medio,NA,Sí,Indep,Si
+36.28,6,NA,Masc,Medio,Bach,Sí,Indep,No
+50.51,0,NA,Masc,Alto,Univ,Sí,Indep,Si
+20.82,3,> 3,Fem,Bajo,Bach,No,Indep,No
+NA,3,NA,Fem,Bajo,Bach,No,Indep,No
+34.36,2,<= 3,Fem,Bajo,Univ,No,Dep,No
+25.72,3,NA,Fem,Medio,Bach,No,Indep,No
+38.8,2,<= 3,Fem,Medio,NA,No,Dep,Si
+25.14,4,> 3,Masc,Medio,Bach,Sí,Indep,Si
+27.79,0,> 3,NA,Alto,Univ,Sí,NA,No
+46.46,0,> 3,Masc,Alto,Univ,Sí,Indep,Si
+46.6,4,<= 3,Fem,Medio,Bach,No,Dep,Si
+49.58,0,NA,Masc,Medio,Univ,Sí,Dep,Si
+23.3,2,> 3,Fem,Medio,Univ,Sí,Indep,No
+28.46,1,> 3,Masc,Alto,Univ,Sí,Indep,Si
+20.42,0,<= 3,Masc,Bajo,Bach,Sí,Dep,Si
+38.73,4,<= 3,Masc,Alto,Bach,NA,Dep,Si
+22.26,4,> 3,Masc,Medio,NA,Sí,Indep,No
+24.6,1,NA,Masc,NA,Univ,Sí,Indep,No
+26.52,3,> 3,Masc,Alto,NA,Sí,Indep,Si
+33.87,2,> 3,Masc,Alto,Bach,NA,NA,Si
+40.46,2,<= 3,Masc,NA,Bach,Sí,Dep,Si
+44.44,4,NA,Fem,Medio,Bach,Sí,Indep,Si
+28.28,1,<= 3,Fem,Alto,Univ,Sí,Dep,Si
+30.15,1,> 3,Fem,Bajo,Bach,No,Indep,No
+NA,NA,> 3,Masc,Medio,Bach,Sí,Indep,No
+21.74,6,> 3,Masc,Bajo,Bach,NA,Dep,No
+35.82,2,> 3,Fem,Bajo,Bach,No,Dep,No
+41.7,3,<= 3,Fem,Medio,Bach,Sí,Dep,No
+36.56,3,<= 3,Fem,Medio,Bach,No,Dep,No
+23.24,1,> 3,Fem,Bajo,Univ,No,Indep,No
+23.04,6,> 3,NA,Bajo,Univ,Sí,Indep,No
+26.99,0,<= 3,Masc,Medio,NA,Sí,Indep,Si
+20.88,1,> 3,Masc,Bajo,NA,Sí,Indep,No
+23.45,3,> 3,Fem,Alto,Univ,No,Indep,No
+26.96,6,NA,Masc,Alto,Bach,Sí,Indep,No
+27.99,2,> 3,Masc,Alto,Univ,Sí,Indep,Si
+22.72,1,> 3,NA,NA,Univ,Sí,Indep,No
+28.1,4,<= 3,Fem,Bajo,Univ,No,Dep,Si
+25.96,3,<= 3,Masc,Alto,Univ,Sí,Dep,Si
+34,4,> 3,Masc,Bajo,Bach,Sí,Indep,No
+39.84,1,<= 3,Masc,Alto,Univ,Sí,Dep,Si
+20.49,2,> 3,Masc,Medio,Bach,Sí,Indep,No
+20.31,5,> 3,Masc,Bajo,Bach,Sí,Indep,No
+38.81,1,<= 3,Masc,Medio,Bach,Sí,Dep,Si
+20.74,1,> 3,Fem,Medio,Bach,No,Indep,No
+25.05,NA,NA,NA,Alto,Univ,Sí,Indep,Si
+26.26,2,> 3,Fem,Alto,Bach,No,Indep,No
+25.82,0,> 3,Fem,Bajo,Bach,No,Indep,No
+30.38,3,> 3,Masc,Medio,Bach,Sí,Indep,No
+43.35,NA,> 3,Masc,Alto,Bach,Sí,Indep,Si
+28.23,0,> 3,Fem,Medio,Univ,No,NA,No
+26.28,2,NA,NA,NA,Bach,Sí,Dep,Si
+35.69,4,<= 3,Masc,Alto,Univ,Sí,Dep,Si
+29.79,6,> 3,Masc,Bajo,Bach,Sí,Indep,No
+38.14,3,<= 3,Masc,NA,Bach,Sí,Dep,Si
+40.5,2,> 3,Fem,Medio,Univ,No,Indep,No
+32.82,0,<= 3,Masc,Alto,Bach,Sí,Dep,Si
+36.48,1,> 3,Fem,Bajo,Bach,No,Indep,No
+45.77,3,> 3,Fem,Medio,Univ,Sí,NA,Si
+32.91,5,> 3,Masc,Alto,Univ,Sí,Dep,No
+29.62,2,NA,NA,Alto,Univ,No,Indep,Si
+23.9,5,> 3,Fem,Medio,Univ,Sí,Indep,Si
+35.62,2,> 3,Fem,Medio,Univ,No,Indep,Si
+32.88,3,<= 3,Fem,Alto,Bach,Sí,Dep,Si
+20.57,1,> 3,Fem,NA,Univ,No,Indep,No
+NA,1,> 3,Masc,Medio,Univ,Sí,Indep,No
+27.38,1,> 3,Masc,Medio,Bach,Sí,Indep,No
+29.4,2,<= 3,Masc,Alto,Bach,NA,Dep,Si
+32.83,1,> 3,Masc,Alto,Bach,Sí,Indep,Si
+43.12,3,> 3,Fem,Medio,Bach,No,Indep,Si
+43.36,4,<= 3,Masc,Alto,Univ,Sí,Indep,Si
+36.04,NA,<= 3,Masc,Medio,Bach,Sí,Dep,Si
+27.27,NA,NA,Fem,Medio,Bach,Sí,Dep,Si
+25.32,NA,> 3,Fem,Bajo,Univ,NA,Indep,No
+21.63,3,<= 3,Masc,Alto,Bach,Sí,Dep,Si
+31.48,3,<= 3,Fem,Alto,Univ,No,Dep,Si
+35.83,1,> 3,Fem,Bajo,Bach,No,NA,No
+37.89,2,<= 3,Masc,Medio,Univ,NA,Dep,Si
+43.78,4,> 3,Masc,Alto,Univ,Sí,Indep,Si
+29.6,0,> 3,Masc,Medio,Univ,Sí,Dep,Si
+33.83,1,> 3,Fem,Bajo,Bach,No,Dep,No
+28.56,2,> 3,NA,Medio,Bach,No,Indep,No
+27.56,3,<= 3,Masc,Alto,Univ,Sí,Dep,Si
+NA,6,NA,Masc,Medio,NA,Sí,NA,No
+21.57,0,> 3,Fem,Medio,Univ,Sí,Indep,No
+27.03,2,> 3,Masc,Medio,Bach,Sí,Indep,No
+25.57,4,> 3,Masc,Medio,Univ,Sí,NA,No
+38.73,0,<= 3,Fem,Alto,Bach,Sí,Dep,Si
+53.37,3,<= 3,Fem,Alto,Univ,Sí,Dep,Si
+27.59,4,<= 3,NA,Medio,Bach,Sí,NA,Si
+42.71,3,> 3,Masc,Alto,Bach,Sí,Indep,Si
+28.79,1,NA,Fem,Alto,Bach,Sí,Indep,Si
+32.53,2,<= 3,Masc,Medio,Univ,Sí,Dep,Si
+45.17,3,> 3,Masc,Medio,Bach,Sí,Indep,Si
+36.01,NA,> 3,Masc,Medio,NA,Sí,Indep,Si
+25.68,3,> 3,Masc,Bajo,Univ,Sí,Indep,No
+45.55,NA,<= 3,Masc,Medio,NA,Sí,Dep,Si
+44.68,3,<= 3,Masc,Alto,Bach,Sí,Dep,Si
+20.72,0,> 3,Fem,Bajo,Bach,No,Indep,No
+37.19,3,> 3,Masc,NA,Bach,Sí,Indep,No
+49.72,5,> 3,Masc,Medio,Bach,NA,Indep,Si
+21.99,3,> 3,Fem,Medio,Bach,NA,Indep,No
+39.81,3,> 3,Masc,Medio,Bach,Sí,NA,Si
+37.91,2,> 3,NA,NA,Bach,Sí,NA,Si
+35.56,3,> 3,NA,Alto,Bach,Sí,Dep,Si
+36,4,> 3,NA,Medio,Bach,Sí,Indep,Si
+22.17,3,> 3,Masc,NA,Bach,Sí,Indep,No
+34.43,3,<= 3,Masc,Medio,Univ,NA,Dep,Si
+46.14,3,<= 3,Fem,Alto,Bach,Sí,Dep,Si
+35,0,> 3,NA,Alto,Univ,No,Indep,No
+26.36,2,NA,Masc,Alto,Univ,Sí,NA,Si
+37.73,5,> 3,Masc,Alto,Univ,Sí,Indep,Si
+24.13,3,<= 3,Masc,Medio,Bach,Sí,Dep,Si
+28.4,3,> 3,Fem,Bajo,Univ,No,NA,No
+47.08,3,<= 3,Masc,Bajo,Bach,Sí,Dep,Si
+32.13,4,NA,Masc,Medio,Bach,NA,Indep,Si
+31.35,2,<= 3,Masc,Alto,Bach,Sí,Dep,No
+25.96,3,> 3,Fem,Medio,Univ,No,Indep,No
+31.62,2,> 3,Masc,Bajo,Bach,Sí,Indep,No
+25.81,2,<= 3,Masc,Medio,Univ,Sí,Dep,Si
+43.03,3,<= 3,Fem,Alto,Bach,Sí,NA,Si
+20.98,4,<= 3,Masc,Medio,Bach,Sí,Dep,Si
+30.87,5,NA,Masc,Alto,Bach,Sí,Dep,Si
+32.01,3,NA,Masc,Medio,Univ,Sí,Dep,Si
+29.09,0,> 3,Fem,Alto,Univ,Sí,Indep,Si
+42.18,1,> 3,Masc,Alto,Univ,Sí,Dep,Si
+39.72,2,> 3,Masc,Medio,Bach,Sí,Indep,Si
+23.88,5,> 3,Masc,Medio,Univ,Sí,Indep,Si
+NA,1,> 3,Fem,Bajo,Bach,No,Dep,No
+37.08,1,<= 3,Fem,Medio,Bach,Sí,Dep,Si
+41.87,3,<= 3,Fem,Medio,Bach,Sí,Dep,Si
+52.44,3,> 3,Masc,NA,NA,NA,NA,Si
+27.19,6,> 3,Masc,NA,NA,Sí,Indep,No
+22.91,3,NA,Masc,Bajo,Univ,Sí,NA,No
+37.36,1,<= 3,Fem,Medio,Univ,No,Dep,Si
+38.15,2,> 3,Masc,NA,Bach,Sí,Indep,No
+33.17,3,<= 3,Masc,Alto,NA,Sí,Dep,Si
+40.1,1,NA,Masc,NA,Bach,Sí,Indep,No
+29.81,NA,<= 3,Masc,Alto,NA,Sí,Dep,Si
+52.59,NA,> 3,Fem,Alto,Univ,Sí,Dep,Si
+45.51,6,> 3,Masc,Medio,Bach,Sí,Indep,No
+41.43,3,<= 3,Fem,Alto,Bach,No,Dep,Si
+38.6,1,> 3,Fem,Medio,Univ,No,Indep,Si
+43.53,1,<= 3,Masc,Medio,Univ,Sí,NA,Si
+43.78,5,> 3,Masc,Alto,Univ,NA,Indep,Si
+40.86,3,> 3,Fem,NA,Univ,No,Indep,No
+35.72,0,> 3,Masc,Medio,Bach,Sí,Indep,Si
+38.5,3,<= 3,Masc,Alto,Univ,Sí,Dep,Si
+24.76,3,<= 3,Fem,Medio,Bach,Sí,Dep,Si
+30.76,2,> 3,Masc,Medio,Univ,Sí,Indep,No
+24.34,5,> 3,Masc,Bajo,Univ,Sí,Indep,No
+NA,5,<= 3,Masc,NA,Bach,Sí,Indep,No
+41.43,1,> 3,Masc,NA,Bach,Sí,Indep,No
+45.84,0,> 3,Fem,Alto,Bach,Sí,Indep,Si
+47.08,1,> 3,Fem,Alto,Bach,Sí,Indep,Si
+39.02,1,> 3,Fem,NA,Bach,No,Indep,No
+NA,3,<= 3,Fem,Bajo,Univ,Sí,Dep,Si
+29.3,2,NA,Masc,Bajo,Bach,Sí,Indep,No
+37.34,NA,> 3,Fem,Alto,Bach,Sí,Indep,Si
+32.53,0,> 3,Masc,Alto,Bach,Sí,Indep,Si
+33.19,0,> 3,Masc,Medio,Univ,Sí,Indep,Si
+37.02,2,<= 3,NA,Alto,Bach,Sí,Dep,Si
+29.35,1,> 3,Masc,Bajo,NA,Sí,Indep,No
+41.44,1,> 3,Masc,Medio,Univ,Sí,NA,Si
+33.48,1,<= 3,Masc,Alto,Univ,Sí,Dep,Si
+33.07,1,> 3,Fem,Medio,Bach,No,NA,No
+33.49,4,> 3,Masc,Medio,Bach,Sí,Indep,Si
+28.11,3,<= 3,Masc,Alto,Univ,Sí,Dep,Si
+37.6,0,> 3,Fem,Bajo,Bach,NA,Indep,No
+27.18,2,<= 3,Masc,Medio,Bach,Sí,Dep,No
+26.71,6,> 3,Masc,Bajo,Univ,Sí,Indep,No
+31.15,5,> 3,Fem,Alto,Univ,Sí,Indep,Si
+40.87,3,NA,Fem,Medio,Bach,No,NA,No
+34.84,3,> 3,Masc,Bajo,Bach,NA,Indep,No
+NA,1,<= 3,Masc,Alto,Bach,NA,Dep,Si
+21.01,0,<= 3,Fem,NA,Univ,No,Dep,No
+38.74,3,> 3,Masc,Alto,Bach,Sí,Indep,Si
+30.98,3,> 3,Masc,NA,Bach,Sí,Indep,Si
+22.84,4,> 3,Masc,Bajo,Bach,NA,Indep,No
+34.28,3,<= 3,Fem,Medio,Bach,No,Dep,Si
+35.15,0,> 3,NA,Medio,Univ,No,Indep,No
+27.38,0,> 3,NA,Bajo,Bach,Sí,Indep,No
+35.54,1,NA,Fem,Medio,Univ,No,NA,No
+29.02,NA,> 3,Fem,Bajo,Bach,Sí,Indep,No
+27.78,2,> 3,Fem,Alto,Univ,No,Indep,No
+40.9,0,NA,Masc,Medio,Bach,Sí,Dep,Si
+33.08,0,NA,Fem,NA,Univ,No,Indep,No
+23.86,0,> 3,NA,Bajo,Bach,Sí,Indep,No
+44.2,3,<= 3,Fem,Alto,Univ,Sí,Dep,Si
+29.92,NA,> 3,Fem,Alto,Bach,Sí,Dep,Si
+27.84,1,> 3,Masc,Bajo,Univ,Sí,Indep,No
+29.51,NA,<= 3,Fem,Medio,Univ,No,Dep,No
+36.77,0,> 3,Fem,NA,Bach,No,Indep,No
+27.44,3,NA,Fem,Alto,Bach,Sí,Indep,Si
+33.2,2,> 3,Fem,Medio,Bach,Sí,NA,Si
+20.72,0,> 3,Fem,NA,Univ,Sí,Indep,Si
+23.64,NA,> 3,Fem,Bajo,Univ,No,Indep,No
+21.85,2,> 3,Masc,Medio,Univ,Sí,Indep,No
+33.53,3,> 3,Fem,Medio,Univ,No,Indep,No
+29.14,2,> 3,NA,Medio,NA,Sí,Indep,No
+24.48,0,NA,NA,Alto,Bach,NA,Dep,Si
+24.05,1,> 3,Fem,Medio,Bach,Sí,Indep,No
+26.86,2,NA,NA,Medio,Univ,Sí,Indep,No
+31.74,3,> 3,Masc,Bajo,Univ,Sí,Indep,No
+28.93,2,> 3,Masc,Alto,Univ,Sí,Indep,No
+35.93,4,> 3,Fem,Alto,Univ,Sí,Indep,Si
+40.67,1,<= 3,Fem,Medio,NA,No,Dep,No
+NA,NA,> 3,Masc,NA,Univ,Sí,NA,No
+26.99,2,> 3,Fem,Bajo,Bach,No,NA,No
+27.9,NA,> 3,Fem,Medio,Bach,NA,Indep,Si
+22.51,3,> 3,NA,Bajo,NA,NA,Indep,No
+29.78,0,<= 3,Masc,Alto,Bach,NA,Dep,Si
+38.61,1,> 3,Fem,Medio,Univ,NA,Indep,No
+24.49,1,> 3,Masc,Bajo,Univ,Sí,Indep,No
+23.06,1,> 3,Masc,Medio,Bach,NA,Indep,No
+48.21,5,> 3,Masc,Alto,Bach,Sí,Indep,Si
+23.63,3,> 3,Fem,Medio,Bach,No,Indep,No
+32.43,NA,NA,NA,Bajo,Bach,No,NA,No
+37.41,3,> 3,Fem,Alto,Univ,NA,Dep,Si
+NA,NA,> 3,Masc,NA,Univ,Sí,Indep,No
+NA,4,<= 3,Fem,Medio,Bach,No,Dep,Si
+21.54,5,<= 3,Masc,Alto,Univ,Sí,Dep,Si
+28.72,0,<= 3,Fem,NA,Bach,Sí,Indep,Si
+22.71,3,NA,Masc,Medio,Univ,Sí,Indep,No
+50.04,4,<= 3,Fem,Medio,NA,Sí,Dep,Si
+45.43,2,<= 3,Masc,Alto,Bach,Sí,Dep,Si
+39.06,2,> 3,Masc,Alto,Bach,Sí,Indep,Si
+22.99,1,<= 3,Fem,Medio,Univ,No,Dep,No
+26.79,1,<= 3,Fem,Medio,Bach,No,Dep,No
+39.72,2,<= 3,Masc,Alto,Univ,Sí,NA,Si
+22.93,1,> 3,Fem,Medio,Bach,No,Indep,No
+22.37,3,> 3,Fem,Bajo,Bach,No,Indep,No
+39.34,5,<= 3,Masc,Alto,Bach,NA,Indep,Si
+37.98,3,<= 3,Masc,Medio,Bach,Sí,Dep,Si
+38.45,5,> 3,Masc,Bajo,Bach,Sí,Dep,No
+22.49,4,<= 3,NA,Bajo,Bach,Sí,Dep,Si
+23.26,2,> 3,Masc,Medio,Bach,Sí,Indep,No
+36.7,1,> 3,Fem,Bajo,NA,No,Indep,No
+46.52,3,> 3,Fem,Medio,Univ,No,Indep,Si
+27.31,4,> 3,Fem,Alto,Univ,NA,Indep,Si
+35.64,3,<= 3,Fem,Medio,Bach,No,Indep,Si
+36.62,2,> 3,Masc,Medio,Univ,Sí,Dep,Si
+38.6,2,> 3,Masc,Alto,Bach,Sí,Indep,Si
+30.03,4,> 3,Masc,Alto,Bach,Sí,NA,No
+41.31,1,> 3,NA,Medio,Univ,No,Indep,No
+NA,5,<= 3,Masc,Alto,Bach,Sí,Dep,Si
+30.48,3,> 3,Masc,Medio,Bach,Sí,Dep,Si
+36.35,0,> 3,Fem,Bajo,Univ,No,Indep,No
+23.32,2,> 3,Fem,Medio,Bach,No,Indep,No
+31.37,2,> 3,Masc,Medio,Bach,NA,Indep,No
+22.29,3,<= 3,Masc,Alto,Bach,Sí,Dep,Si
+NA,2,NA,NA,NA,Univ,Sí,Indep,No
+21.98,1,> 3,Fem,Alto,Bach,Sí,NA,Si
+25.67,3,> 3,Masc,Alto,Bach,Sí,Indep,Si
+25.95,0,> 3,Masc,Bajo,Bach,Sí,Indep,No
+29.99,2,NA,Fem,Bajo,Bach,No,Dep,No
+NA,2,> 3,Fem,Alto,Univ,NA,Dep,No
+24.02,4,<= 3,Masc,Alto,Univ,Sí,Indep,Si
+40.41,NA,<= 3,Fem,Medio,Bach,Sí,Dep,Si
+21.28,6,> 3,Masc,Medio,Bach,Sí,Indep,No
+31.11,3,> 3,Fem,Bajo,Univ,No,Indep,No
+32.75,3,NA,NA,Bajo,Bach,No,Dep,No
+22.78,5,> 3,Fem,Bajo,Bach,Sí,NA,Si
+45.58,3,<= 3,Masc,Alto,Bach,Sí,Dep,Si
+32.27,3,<= 3,Masc,Alto,Univ,Sí,NA,Si
+32.29,3,> 3,NA,Medio,Univ,Sí,Dep,Si
+NA,NA,> 3,NA,Medio,Univ,Sí,Indep,No
+26.51,2,> 3,Fem,NA,Bach,No,Indep,No
+24.92,0,> 3,Masc,Medio,Univ,Sí,Indep,No
+45.41,2,<= 3,Fem,Alto,Bach,Sí,NA,Si
+26.39,0,> 3,NA,Medio,Bach,NA,Indep,No
+39.19,5,<= 3,Masc,Alto,Bach,Sí,Dep,Si
+26.88,2,> 3,Fem,Medio,Bach,No,Indep,No
+37.09,NA,<= 3,NA,Medio,Univ,Sí,Dep,Si
+23.31,NA,<= 3,Masc,Medio,NA,Sí,NA,Si
+NA,3,> 3,Masc,Medio,Bach,Sí,Indep,Si
+39.18,3,> 3,Masc,Alto,Bach,Sí,Indep,Si
+25.74,0,> 3,Fem,Alto,NA,No,Dep,No
+21.77,3,> 3,Masc,Medio,Univ,NA,Indep,No
+37.86,0,NA,Masc,Bajo,Bach,Sí,Indep,No
+29.08,0,> 3,NA,Medio,Bach,No,Indep,No
+42,2,> 3,Masc,Bajo,Bach,Sí,Indep,No
+30.42,3,> 3,Masc,Alto,Bach,Sí,Dep,Si
+27,3,<= 3,Fem,Bajo,Bach,Sí,Dep,Si
+NA,2,> 3,Fem,Alto,Bach,Sí,Indep,Si
+NA,0,> 3,Masc,Alto,Bach,Sí,Indep,Si
+NA,4,> 3,Masc,Bajo,Univ,NA,Indep,No
+39.86,3,> 3,Fem,Medio,Univ,Sí,Dep,Si
+28.9,0,> 3,Masc,Medio,Bach,Sí,Indep,No
+32.3,4,<= 3,Masc,NA,Univ,Sí,Dep,Si
+41.71,1,> 3,Fem,Bajo,Univ,No,NA,No
+39.1,4,<= 3,Masc,Medio,Univ,Sí,Dep,Si
+NA,2,> 3,Fem,Bajo,Univ,No,Indep,No
+57.39,3,> 3,Fem,NA,Bach,Sí,Indep,Si
+40.62,0,<= 3,Masc,NA,Univ,Sí,Dep,No
+40.55,2,<= 3,Fem,Medio,Bach,Sí,Dep,Si
+33.62,1,> 3,Masc,Alto,Univ,Sí,Indep,Si
+43.3,2,<= 3,Masc,Alto,Bach,Sí,Indep,Si
+26.23,NA,NA,Fem,Medio,Univ,Sí,Indep,No
+50.17,0,<= 3,NA,Bajo,NA,Sí,Dep,Si
+31.17,3,> 3,Fem,Medio,NA,Sí,Indep,Si
+35.06,2,<= 3,Masc,Alto,Bach,Sí,Dep,Si
+31.41,3,<= 3,Fem,Alto,Univ,Sí,Dep,Si
+31.08,4,> 3,Masc,Alto,Bach,Sí,Indep,Si
+22.73,0,<= 3,Masc,NA,Univ,Sí,Dep,Si
+27.67,NA,<= 3,Fem,Medio,Bach,No,Dep,Si
+NA,2,> 3,Fem,Bajo,Univ,No,Indep,No
+22.52,5,> 3,Masc,Alto,NA,Sí,Indep,Si
+30.57,4,> 3,Masc,Medio,NA,Sí,Indep,No
+NA,3,> 3,Masc,Medio,Bach,Sí,Indep,Si
+47.69,2,> 3,NA,Bajo,Univ,Sí,Indep,Si
+27.21,NA,> 3,Masc,Medio,Bach,Sí,Indep,Si
+42.96,5,NA,Fem,Alto,Univ,NA,Indep,Si
+24.22,2,> 3,Fem,Bajo,Bach,No,Indep,No
+NA,NA,<= 3,Masc,Medio,Bach,Sí,Dep,Si
+43.52,0,NA,Masc,Medio,Univ,NA,Indep,Si
+61.67,3,> 3,Masc,NA,Univ,Sí,Indep,Si
+23.79,0,NA,Fem,Medio,Univ,No,Indep,No
+32.76,3,> 3,NA,Alto,Univ,Sí,Indep,No
+22.01,1,<= 3,Fem,Medio,Univ,No,Dep,No
+44,1,<= 3,Fem,Medio,Bach,No,Dep,No
+43.37,3,> 3,Fem,NA,Bach,No,Dep,No
+24.95,NA,<= 3,NA,Medio,Univ,Sí,Dep,No
+31.75,0,<= 3,Fem,Medio,Bach,No,Dep,No
+26.11,0,> 3,Fem,Medio,Bach,No,Dep,No
+NA,1,> 3,Fem,Medio,Bach,Sí,Indep,Si
+40.19,0,> 3,Fem,Bajo,Bach,No,Dep,No
+35.07,2,<= 3,Masc,Medio,Univ,Sí,Dep,Si
+24.08,1,> 3,Masc,Alto,Univ,NA,Indep,Si
+31.92,1,<= 3,Fem,Medio,Univ,Sí,Dep,Si
+40.23,4,<= 3,Masc,Bajo,Univ,Sí,Dep,Si
+36.77,3,> 3,Masc,Medio,Univ,Sí,Indep,No
+37.56,3,> 3,Fem,Bajo,Univ,No,Dep,No
+35.57,0,> 3,Masc,Alto,Bach,Sí,Indep,Si
+28.13,0,> 3,Fem,Alto,Bach,Sí,Indep,Si
+42.84,2,> 3,NA,Alto,Bach,Sí,Indep,Si
+51.71,5,<= 3,Masc,Alto,Univ,NA,Dep,Si
+28.38,2,> 3,NA,Medio,Bach,No,Indep,No
+NA,0,NA,Masc,Bajo,Univ,Sí,Indep,No
+48.19,2,> 3,Fem,NA,Univ,No,Dep,Si
+34.47,0,> 3,Masc,Medio,Bach,Sí,Indep,Si
+20.59,2,> 3,Fem,Medio,Univ,No,Indep,No
+41.88,2,<= 3,NA,NA,Univ,Sí,Dep,Si
+44.77,3,<= 3,Fem,Medio,Bach,Sí,Dep,Si
+23.65,5,<= 3,Masc,Alto,Bach,Sí,Indep,No
+21.38,0,> 3,Fem,Bajo,Bach,No,Dep,No
+40.49,3,> 3,Masc,NA,Univ,Sí,NA,Si
+37.68,0,NA,Fem,Medio,Bach,No,NA,No
+32.9,1,> 3,Fem,Medio,Univ,No,Indep,No
+31.93,1,> 3,Fem,Bajo,Bach,No,Indep,No
+23.64,2,> 3,Fem,Bajo,Univ,No,Indep,No
+35.73,0,> 3,Masc,Medio,Bach,Sí,NA,Si
+26.1,5,> 3,Masc,Bajo,Bach,Sí,Indep,Si
+35.23,3,<= 3,Masc,Alto,Bach,Sí,Dep,Si
+32.95,0,> 3,Fem,Bajo,Univ,No,Indep,No
+20.85,3,NA,Fem,Medio,Bach,Sí,Indep,Si
+51.84,3,<= 3,NA,NA,Bach,Sí,Dep,Si
+59.15,3,> 3,NA,Alto,Bach,Sí,Indep,Si
+32.82,NA,> 3,Masc,Bajo,Univ,Sí,Indep,Si
+38.62,1,> 3,Masc,Medio,Univ,Sí,Indep,Si
+20,2,> 3,Masc,Medio,Univ,Sí,Dep,No
+53.75,3,> 3,NA,Alto,Univ,Sí,Indep,Si
+35.22,2,NA,Fem,Medio,Bach,Sí,Indep,No
+40.28,3,> 3,Fem,Medio,Bach,Sí,Indep,Si
+20.62,1,<= 3,Masc,Bajo,Bach,Sí,Indep,No
+27.33,NA,NA,Masc,Alto,Bach,Sí,Indep,Si
+23.98,NA,> 3,Masc,Bajo,Bach,Sí,Indep,No
+27.63,2,> 3,Masc,Medio,Bach,Sí,Indep,No
+39.39,0,> 3,Fem,Alto,Univ,Sí,Indep,Si
+NA,0,> 3,Fem,NA,Univ,No,Indep,No
+34.38,NA,<= 3,Masc,Medio,NA,Sí,Dep,Si
+38.19,NA,> 3,Masc,Alto,Bach,Sí,Indep,No
+33.98,NA,> 3,Masc,Alto,Bach,Sí,Dep,No
+22.78,0,<= 3,Fem,Medio,NA,No,Dep,No
+20.96,1,> 3,Masc,Medio,Bach,Sí,NA,No
+26.3,3,> 3,Fem,Bajo,Bach,No,Indep,No
+30.93,6,> 3,Masc,Alto,Bach,NA,Indep,No
+NA,1,> 3,NA,Medio,Bach,NA,Indep,Si
+26.72,1,> 3,NA,Medio,Bach,NA,Indep,No
+29.84,1,> 3,Fem,NA,Bach,No,NA,No
+25.05,3,<= 3,Fem,Medio,Bach,Sí,Dep,No
+39.83,3,<= 3,Masc,Bajo,Bach,NA,Dep,Si
+38.26,1,<= 3,Fem,Medio,Univ,Sí,Dep,Si
+24.05,1,> 3,Fem,Bajo,Univ,No,Indep,No
+28.46,1,> 3,Masc,Bajo,Bach,Sí,Dep,No
+47.96,NA,> 3,NA,NA,Univ,Sí,Indep,Si
+34.18,5,> 3,Masc,Alto,Univ,Sí,Indep,Si
+22.17,3,> 3,Fem,Bajo,Univ,NA,Indep,No
+23.26,3,> 3,NA,Bajo,Univ,Sí,Indep,No
+35.46,1,> 3,Masc,Medio,Bach,Sí,Indep,No
+30.3,4,> 3,Masc,Alto,Univ,Sí,Indep,Si
+24.07,NA,> 3,Masc,Alto,Bach,Sí,Indep,No
+43.27,NA,NA,Fem,Medio,Bach,No,Indep,No
+31.31,0,> 3,Masc,Medio,Bach,Sí,Indep,Si
+25.26,3,NA,Masc,Medio,NA,Sí,Indep,Si
+NA,2,NA,Fem,Bajo,Bach,No,Indep,No
+41.3,1,NA,Masc,Bajo,Univ,Sí,Indep,No
+28.43,3,> 3,Masc,Medio,Bach,NA,NA,No
+40.96,3,<= 3,Fem,Medio,Bach,Sí,Dep,Si
+35.9,0,> 3,NA,Bajo,Bach,No,Indep,No
+21.92,3,NA,Fem,Medio,Univ,No,Indep,No
+42.93,1,> 3,Fem,NA,Bach,No,Indep,No
+37.56,1,> 3,Fem,Medio,Bach,Sí,Dep,No
+42.35,2,<= 3,Fem,Alto,Bach,Sí,Dep,Si
+26.76,5,<= 3,Masc,Medio,Univ,Sí,Dep,Si
+39.35,5,> 3,Fem,Alto,NA,Sí,Indep,Si
+46.51,NA,> 3,Fem,NA,Bach,No,Indep,No
+NA,1,> 3,Masc,Bajo,Univ,Sí,Indep,No
+36.02,0,> 3,Fem,Medio,Bach,Sí,NA,Si
+22.46,3,<= 3,Fem,NA,Bach,Sí,Dep,Si
+27.88,5,> 3,Masc,NA,Univ,Sí,Indep,Si
+20.88,5,> 3,Fem,Medio,Bach,Sí,Indep,Si
+42.73,3,<= 3,Masc,Medio,Univ,Sí,Indep,Si
+38.24,2,> 3,NA,Alto,Univ,Sí,Dep,Si
+46.44,0,> 3,Fem,Medio,Bach,No,Dep,No
+39.48,2,<= 3,Masc,Medio,Univ,Sí,Dep,Si
+33.37,5,<= 3,Masc,Medio,Bach,Sí,Dep,Si
+42.34,4,<= 3,Fem,NA,Bach,Sí,Dep,Si
+35.49,5,> 3,Masc,Alto,NA,Sí,NA,Si
+41.22,3,> 3,Masc,NA,Univ,NA,NA,Si
+33.73,1,<= 3,Fem,Alto,NA,No,Dep,Si
+32.69,2,<= 3,NA,Alto,Bach,Sí,Dep,Si
+50.71,0,> 3,Fem,Medio,NA,Sí,Indep,Si
+20.54,3,> 3,Masc,Alto,Univ,Sí,Indep,Si
+NA,3,> 3,Fem,Bajo,Bach,No,Indep,Si
+30.05,1,> 3,Masc,Alto,Univ,Sí,Indep,Si
+35.89,3,> 3,Fem,Medio,Univ,No,Indep,Si
+36.98,0,> 3,Fem,NA,Bach,No,Indep,No
+33.47,0,> 3,NA,Medio,Univ,NA,Indep,Si
+47.39,5,> 3,Fem,Alto,Bach,Sí,Indep,Si
+29.95,3,> 3,Masc,Bajo,Univ,Sí,NA,No
+NA,1,> 3,Masc,Alto,Bach,Sí,Indep,Si
+33.24,1,NA,Fem,Alto,NA,Sí,Dep,Si
+23.83,6,<= 3,NA,Bajo,Univ,Sí,Dep,No
+33.3,5,<= 3,Masc,NA,Bach,Sí,Dep,Si
+39.85,3,> 3,Fem,Alto,Bach,No,NA,Si
+39.4,3,> 3,NA,Medio,Bach,Sí,Indep,No
+32.2,0,<= 3,Masc,Medio,Bach,NA,Dep,Si
+NA,NA,> 3,Fem,Medio,Bach,No,NA,No
+21.61,5,> 3,Masc,Alto,Bach,Sí,Indep,Si
+32.31,0,> 3,Masc,Bajo,Univ,Sí,Indep,No
+26.4,3,> 3,Masc,Alto,Univ,Sí,Indep,No
+32.31,5,<= 3,Masc,NA,Bach,Sí,Dep,Si
+23.02,NA,<= 3,Fem,Medio,Bach,No,Dep,No
+NA,1,> 3,Fem,NA,Univ,No,NA,No
+52.45,NA,<= 3,Masc,Medio,Univ,Sí,Dep,Si
+40.13,1,> 3,Masc,Alto,Bach,Sí,Indep,Si
+26.52,0,> 3,Masc,Alto,Bach,Sí,Indep,No
+33.55,3,> 3,Masc,NA,NA,Sí,Indep,No
+29.81,0,NA,Masc,Medio,Univ,Sí,Indep,Si
+40.61,0,> 3,Fem,NA,Univ,Sí,Indep,Si
+38.97,3,> 3,Fem,NA,Bach,No,NA,No
+29.28,3,> 3,Masc,Medio,Bach,Sí,Indep,Si
+28.76,0,> 3,Masc,Bajo,Univ,Sí,Indep,No
+39.96,3,<= 3,Masc,Medio,Bach,Sí,Dep,Si
+33.23,3,> 3,NA,Medio,Bach,Sí,Indep,Si
+20.87,3,> 3,Fem,Medio,Univ,Sí,Indep,No
+46.54,4,> 3,Masc,Alto,Univ,Sí,NA,Si
+57.43,4,> 3,NA,Alto,Univ,NA,Indep,Si
+34.13,1,> 3,Fem,Bajo,Bach,No,Indep,No
+43.81,0,> 3,Fem,Bajo,Bach,NA,Indep,No
+47.82,NA,<= 3,Masc,NA,Bach,NA,Dep,Si
+25.6,5,> 3,Masc,Bajo,Univ,Sí,NA,Si
+25.43,2,> 3,Fem,Medio,Bach,No,Indep,No
+23.86,4,NA,Masc,NA,Bach,Sí,Indep,Si
+NA,0,<= 3,Masc,Medio,Univ,Sí,Dep,Si
+27.3,2,> 3,Fem,Medio,Bach,Sí,NA,No
+22.84,1,> 3,Masc,NA,Bach,Sí,Indep,Si
+NA,1,> 3,Masc,Alto,Bach,Sí,Indep,Si
+24.53,3,<= 3,NA,NA,Bach,No,Dep,No
+34.09,1,> 3,Masc,Medio,Univ,Sí,NA,No
+46.29,3,> 3,Fem,Medio,Univ,Sí,Dep,Si
+32.57,2,> 3,Fem,Medio,Bach,Sí,Indep,Si
+26.52,1,<= 3,Masc,Medio,Bach,Sí,Dep,Si
+NA,3,> 3,Masc,Medio,Bach,Sí,Dep,Si
+22.88,4,> 3,Masc,Medio,Bach,Sí,NA,Si
+31.94,3,<= 3,Fem,Medio,Bach,Sí,Indep,Si
+34.82,1,<= 3,NA,Medio,Bach,NA,Dep,Si
+37.08,3,> 3,Fem,Medio,Bach,No,Indep,No
+31.8,3,> 3,Fem,Medio,Univ,No,NA,No
+29.27,1,> 3,Masc,Medio,Bach,Sí,Dep,Si
+44.45,3,<= 3,Masc,Alto,Bach,Sí,Dep,Si
+35.18,5,> 3,Masc,Medio,NA,Sí,Indep,Si
+NA,0,<= 3,Masc,Alto,Bach,Sí,Dep,Si
+37.23,2,> 3,Fem,Medio,Bach,No,Indep,No
+30.8,NA,> 3,Masc,Medio,Univ,Sí,Indep,No
+40.94,0,<= 3,Masc,Medio,Bach,Sí,Indep,Si
+30.34,0,> 3,Masc,Medio,Bach,Sí,NA,No
+24.05,2,> 3,Masc,Bajo,Univ,NA,Indep,No
+42.8,4,> 3,Masc,Alto,Univ,Sí,NA,Si
+34.06,1,<= 3,Fem,NA,Bach,Sí,Dep,Si
+21.86,6,NA,Masc,NA,Univ,Sí,Indep,No
+25.92,2,NA,Masc,Medio,Univ,Sí,Indep,Si
+34.8,4,> 3,Masc,Medio,Bach,Sí,Indep,Si
+44.13,NA,> 3,Fem,Medio,Univ,No,Dep,No
+28.43,0,<= 3,Masc,Alto,Bach,Sí,Indep,Si
+NA,5,NA,Masc,Alto,Univ,Sí,Indep,Si
+40.44,1,> 3,Fem,Bajo,Univ,Sí,Indep,Si
+49.71,5,> 3,Fem,NA,Univ,NA,Indep,Si
+31.7,1,> 3,Fem,Medio,Bach,No,Indep,No
+43.6,3,> 3,Fem,Medio,NA,Sí,Indep,Si
+33.17,4,<= 3,Masc,Alto,Bach,Sí,Dep,Si
+32.93,2,<= 3,Masc,Alto,Bach,Sí,NA,Si
+30.32,0,> 3,Fem,Medio,Bach,No,Indep,No
+NA,0,NA,Masc,Bajo,Univ,NA,Dep,No
+34.68,3,NA,Masc,NA,Bach,Sí,Dep,Si
+28.17,6,<= 3,Fem,Medio,Bach,Sí,NA,Si
+NA,6,<= 3,Masc,Alto,Bach,Sí,Dep,Si
+21.4,6,> 3,Fem,Alto,Univ,NA,NA,Si
+NA,1,> 3,Fem,Medio,Bach,No,Indep,No
+25.41,NA,NA,Fem,Bajo,Bach,No,Indep,No
+42.39,4,> 3,Masc,Bajo,Bach,Sí,Indep,Si
+45.97,3,<= 3,Masc,Alto,Bach,Sí,Dep,Si
+36.89,0,> 3,Masc,Medio,Univ,Sí,Indep,No
+34.18,NA,<= 3,Fem,Medio,Univ,No,Dep,Si
+NA,6,NA,Masc,NA,Bach,Sí,Indep,Si
+22.93,2,NA,Fem,Bajo,Bach,Sí,Indep,No
+22.15,3,NA,Fem,Bajo,Univ,Sí,Indep,No
+29.01,6,> 3,Masc,Bajo,Bach,Sí,Indep,No
+NA,3,<= 3,Masc,Alto,Bach,NA,NA,Si
+25.89,6,> 3,Masc,NA,Univ,Sí,Indep,Si
+20.2,3,> 3,Masc,Bajo,Univ,Sí,Dep,No
+28.25,0,<= 3,Fem,Alto,Bach,No,Dep,Si
+26.37,1,<= 3,Fem,Alto,Univ,NA,Dep,Si
+47.05,6,<= 3,Fem,NA,Univ,Sí,Dep,Si
+39.11,5,> 3,Masc,Medio,Univ,Sí,Indep,Si
+32.07,4,<= 3,Fem,Alto,NA,Sí,Indep,Si
+34.98,2,> 3,Masc,NA,Bach,Sí,Indep,Si
+23.34,1,NA,Masc,Alto,Bach,Sí,Indep,No
+44.46,1,> 3,Fem,Bajo,Bach,Sí,Indep,No
+43.87,1,> 3,Masc,Medio,NA,Sí,Indep,No
+34.3,1,<= 3,Masc,Medio,Bach,Sí,Dep,Si
+37.74,5,NA,NA,Alto,Univ,Sí,Dep,Si
+51.96,2,<= 3,Fem,Medio,NA,NA,Indep,Si
+32.75,3,NA,Masc,Medio,Bach,Sí,Indep,Si
+34.41,3,<= 3,Masc,NA,Univ,Sí,Dep,Si
+21.7,2,> 3,Masc,Medio,Bach,NA,Indep,No
+NA,4,> 3,Masc,Medio,Bach,NA,Indep,Si
+NA,2,> 3,Masc,Alto,Bach,Sí,Dep,Si
+38.53,1,> 3,Masc,Bajo,Bach,Sí,NA,Si
+35.12,1,> 3,Fem,Medio,Univ,No,Indep,No
+24.37,1,> 3,Masc,Alto,Bach,Sí,Indep,Si
+40.44,5,NA,Masc,Alto,Univ,Sí,Indep,Si
+47.28,1,<= 3,Fem,Medio,Bach,Sí,Dep,Si
+24.67,5,> 3,Masc,Medio,Bach,Sí,Dep,Si
+25.38,0,> 3,Masc,Bajo,Bach,Sí,Indep,No
+31.98,2,> 3,Masc,Medio,Bach,Sí,Dep,No
+31.75,0,> 3,Masc,Bajo,Bach,Sí,Indep,No
+NA,0,> 3,Fem,Bajo,Univ,Sí,Indep,No
+44.49,0,<= 3,Fem,Alto,Univ,NA,Dep,Si
+28.61,2,> 3,Fem,Medio,Bach,NA,Indep,No
+28.25,0,> 3,Fem,Medio,Bach,No,Indep,No
+NA,0,> 3,NA,Medio,Bach,No,Dep,No
+28.02,NA,> 3,Fem,Alto,Univ,No,Indep,Si
+22.8,1,<= 3,Fem,Medio,Bach,Sí,Indep,Si
+34.38,2,> 3,Fem,Medio,Bach,No,NA,No
+30.23,3,<= 3,Masc,Medio,Univ,Sí,Dep,No
+NA,3,> 3,Masc,Medio,NA,NA,Indep,No
+40.64,3,> 3,Masc,NA,Bach,Sí,Indep,No
+40.67,6,> 3,Fem,Alto,NA,No,Indep,Si
+34.31,1,<= 3,Masc,Medio,Bach,Sí,Dep,Si
+38.47,4,> 3,Masc,Alto,Bach,Sí,Indep,Si
+28.85,6,> 3,Masc,Alto,Bach,Sí,Indep,No
+22.4,4,> 3,Masc,Bajo,Univ,Sí,Indep,No
+23.5,3,<= 3,Masc,Medio,Bach,Sí,Dep,Si
+29.88,2,> 3,Masc,Alto,Bach,Sí,Indep,Si
+32.77,NA,> 3,Masc,Alto,Bach,Sí,Indep,Si
+22.92,2,> 3,Fem,NA,Bach,No,Dep,No
+24.2,3,> 3,Fem,Bajo,Univ,No,Indep,No
+29.77,6,> 3,Fem,Alto,Univ,Sí,Indep,Si
+25.5,0,NA,NA,Medio,Univ,Sí,Indep,No
+40.3,2,NA,Masc,Medio,Bach,NA,NA,Si
+35.65,2,<= 3,Masc,NA,Bach,Sí,Indep,Si
+40.19,2,> 3,Masc,NA,Bach,Sí,Indep,Si
+NA,2,> 3,Fem,Medio,Univ,No,Indep,No
+41.18,NA,> 3,Masc,Medio,Univ,Sí,Indep,Si
+38.76,0,<= 3,Fem,Medio,Univ,No,Dep,No
+33.95,1,<= 3,NA,Medio,Univ,NA,Dep,No
+26.2,6,> 3,Fem,Alto,Univ,NA,Indep,Si
+50.66,3,<= 3,Masc,Alto,Univ,Sí,Dep,Si
+35.96,3,> 3,Masc,Medio,Bach,Sí,Indep,Si
+27.96,3,> 3,Masc,Medio,Bach,Sí,NA,Si
+NA,0,<= 3,Masc,Medio,Univ,Sí,Dep,Si
+35.56,0,> 3,Fem,Alto,Bach,No,Indep,No
+NA,1,> 3,Fem,Bajo,NA,NA,Indep,No
+27.42,2,> 3,Fem,Bajo,Bach,No,Indep,No
+33.42,0,> 3,Masc,Bajo,Bach,Sí,Indep,No
+34.42,5,> 3,Masc,Bajo,Univ,Sí,Indep,No
+NA,3,<= 3,Masc,Alto,Bach,NA,Dep,Si
+NA,0,> 3,Masc,Alto,Univ,Sí,Indep,Si
+23.4,2,> 3,Fem,Medio,Univ,No,Indep,No
+59.78,6,> 3,Fem,Alto,Bach,NA,Indep,Si
+24.47,3,> 3,Masc,NA,Bach,Sí,Indep,No
+47.48,5,<= 3,NA,Alto,Univ,Sí,Indep,Si
+38.61,0,> 3,Masc,NA,Univ,Sí,Indep,No
+34.56,NA,NA,Fem,Medio,Bach,No,Indep,No
+37.36,0,<= 3,Fem,Medio,NA,No,Dep,No
+34.24,3,<= 3,Masc,Alto,Univ,Sí,Dep,Si
+43.35,2,NA,Masc,Alto,Bach,Sí,NA,Si
+41.98,0,> 3,Masc,Alto,NA,Sí,Indep,Si
+21.09,1,<= 3,Fem,NA,Bach,NA,Dep,Si
+22.53,NA,> 3,Masc,Medio,Univ,Sí,Indep,No
+29.4,0,> 3,Fem,Medio,Bach,No,NA,No
+30.26,2,> 3,NA,Medio,Bach,Sí,Indep,Si
+37.54,3,<= 3,Masc,Alto,Bach,NA,Dep,Si
+21.61,1,<= 3,Masc,Medio,Univ,Sí,Dep,Si
+21.38,1,NA,Masc,Medio,Bach,Sí,Indep,No
+26.33,6,<= 3,Masc,Alto,Bach,Sí,Dep,Si
+42.35,4,> 3,Fem,Alto,Bach,No,Indep,Si
+49.79,NA,<= 3,Masc,Medio,Bach,Sí,Dep,Si
+37.69,3,<= 3,Fem,Alto,Bach,No,Dep,Si
+21.35,6,<= 3,Masc,Alto,Bach,NA,Dep,Si
+39.69,1,<= 3,Fem,Alto,Univ,No,Dep,Si
+40.71,NA,> 3,Masc,Medio,Bach,Sí,Indep,Si
+32.88,3,NA,Masc,Alto,Bach,Sí,Indep,Si
+20.21,6,<= 3,Masc,Medio,Univ,NA,Dep,Si
+24.97,2,> 3,Fem,Bajo,Bach,No,Indep,No
+39.41,6,> 3,Fem,Alto,Univ,Sí,Indep,Si
+42.5,6,NA,Masc,Medio,Bach,Sí,NA,Si
+35.78,5,<= 3,Fem,Medio,NA,Sí,Dep,Si
+33.21,0,> 3,Fem,Medio,Univ,No,Indep,No
+38.24,1,<= 3,Masc,Bajo,Bach,Sí,Dep,Si
+27.57,0,> 3,Fem,Medio,Univ,No,NA,No
+32.34,0,> 3,Masc,Medio,Bach,Sí,Indep,Si
+24.02,2,NA,NA,Medio,Bach,No,Indep,No
+NA,0,> 3,Fem,Bajo,NA,NA,Dep,No
+NA,2,NA,Masc,Medio,Univ,Sí,Dep,Si
+34.51,2,> 3,NA,Medio,Univ,Sí,Dep,Si
+34.36,2,> 3,Masc,Alto,Univ,Sí,NA,Si
+24.61,2,> 3,NA,Medio,Bach,Sí,Indep,No
+42.83,5,> 3,Masc,Alto,Univ,NA,Indep,Si
+26.89,NA,<= 3,NA,Medio,Univ,Sí,Dep,Si
+NA,5,> 3,Fem,Medio,Bach,No,Dep,Si
+40.59,5,> 3,Fem,Medio,Bach,Sí,Indep,Si
+37.97,6,<= 3,Fem,Medio,Bach,NA,Dep,Si
+39.86,6,> 3,Fem,Alto,Univ,No,Indep,Si
+21.61,1,> 3,NA,Medio,Bach,No,Indep,No
+20.22,5,<= 3,Masc,Bajo,Univ,Sí,Dep,Si
+37.02,2,<= 3,NA,NA,Univ,Sí,Dep,Si
+NA,5,<= 3,Masc,Alto,Bach,Sí,Dep,Si
+35.94,4,> 3,Masc,Medio,Univ,Sí,NA,No
+29.72,NA,> 3,Fem,Bajo,Bach,Sí,NA,No
+33.66,0,<= 3,Fem,Medio,NA,No,NA,Si
+33.88,3,<= 3,Masc,Bajo,Univ,Sí,Dep,No
+34.05,0,> 3,Masc,Medio,Univ,Sí,Indep,No
+35.78,2,> 3,Masc,Medio,NA,Sí,Indep,Si
+41.92,0,> 3,Fem,Alto,Univ,No,Indep,Si
+20.35,0,<= 3,Fem,Bajo,Bach,No,Dep,No
+31.64,2,> 3,Fem,Medio,Univ,No,Indep,No
+52.31,0,<= 3,Masc,Medio,Bach,Sí,Dep,Si
+41.08,1,<= 3,Masc,Medio,Bach,Sí,Dep,Si
+40.23,2,> 3,Masc,Bajo,Univ,Sí,Indep,No
+49.11,0,> 3,Masc,Medio,Bach,Sí,Indep,Si
+34.18,6,<= 3,Masc,Medio,Bach,Sí,Dep,Si
+26.03,2,NA,Masc,Alto,Univ,Sí,Dep,Si
+37.49,3,> 3,Masc,Bajo,NA,Sí,NA,Si
+NA,0,> 3,NA,Medio,Bach,No,Indep,No
+46.36,NA,<= 3,Fem,Medio,Bach,Sí,Dep,Si
+45.52,3,> 3,Fem,Alto,Univ,Sí,Indep,Si
+57.36,6,> 3,Masc,Medio,NA,Sí,Indep,Si
+53.87,4,NA,Masc,NA,Bach,Sí,Dep,Si
+28.02,3,> 3,Masc,NA,Bach,Sí,Indep,Si
+20.16,0,> 3,Fem,Medio,NA,No,Indep,No
+40.78,1,> 3,Fem,Alto,Univ,Sí,NA,Si
+39.31,3,<= 3,Masc,Bajo,Bach,Sí,NA,Si
+28.1,5,<= 3,Fem,Medio,Bach,Sí,Dep,Si
+NA,5,> 3,Fem,Alto,Bach,No,Indep,Si
+42.54,6,<= 3,NA,Alto,Bach,Sí,Dep,Si
+56.27,1,> 3,Masc,Medio,NA,Sí,Indep,Si
+40,1,> 3,Fem,Bajo,Univ,No,Indep,No
+NA,4,<= 3,NA,NA,Bach,Sí,Indep,Si
+35.23,0,> 3,Fem,Alto,Bach,No,Indep,Si
+24.83,1,> 3,NA,Medio,Bach,Sí,Indep,No
+38.06,3,> 3,Fem,NA,Bach,No,Indep,No
+NA,2,> 3,Masc,Medio,Bach,Sí,Dep,No
+NA,4,NA,Masc,Medio,Bach,Sí,Dep,Si
+41.78,3,<= 3,Fem,Alto,Bach,Sí,Dep,Si
+39.69,0,> 3,Masc,Medio,Bach,Sí,Indep,Si
+NA,NA,NA,Fem,Alto,Bach,Sí,Dep,Si
+25.34,0,<= 3,Fem,Medio,Univ,No,Dep,No
+36.3,NA,> 3,Fem,Medio,Bach,Sí,Indep,Si
+38.98,4,<= 3,Masc,Alto,Bach,Sí,NA,Si
+28.68,5,NA,Masc,Medio,NA,Sí,Dep,Si
+31.18,6,<= 3,Masc,Medio,Bach,Sí,Indep,Si
+45.03,5,> 3,Masc,Alto,Bach,Sí,Dep,Si
+NA,5,> 3,Masc,Alto,Bach,Sí,Indep,Si
+52.97,1,<= 3,Masc,NA,Univ,Sí,Dep,Si
+47.78,5,> 3,Fem,Medio,Bach,Sí,Indep,Si
+44.03,3,<= 3,NA,Medio,Bach,Sí,NA,Si
+32.62,2,<= 3,Fem,Alto,NA,Sí,Dep,No
+31.16,3,NA,Masc,Medio,Univ,Sí,Indep,No
+27.02,5,NA,Fem,Alto,Bach,No,Dep,Si
+31.86,6,NA,NA,NA,Univ,Sí,Indep,Si
+22.81,6,> 3,Masc,Medio,Bach,Sí,Indep,Si
+27.93,0,> 3,Fem,Medio,Bach,Sí,Indep,No
+32.14,0,NA,Fem,NA,Bach,Sí,Dep,Si
+40.21,NA,> 3,Masc,Alto,Bach,Sí,Indep,Si
+42.87,5,> 3,NA,Medio,Bach,Sí,Indep,Si
+NA,4,> 3,Masc,Medio,Univ,Sí,Indep,Si
+36.79,NA,> 3,Masc,Alto,Univ,Sí,Indep,Si
+25.44,1,> 3,Fem,Bajo,Bach,No,Indep,No
+33.74,2,> 3,Fem,Medio,Bach,NA,Indep,No
+31.6,1,> 3,Masc,Alto,Bach,Sí,NA,No
+43.27,NA,<= 3,Masc,Medio,Bach,Sí,Dep,Si
+39.82,5,> 3,Fem,Medio,Univ,Sí,Indep,Si
+27.14,3,NA,Masc,NA,Univ,Sí,Indep,No
+28.91,2,> 3,Fem,Medio,Univ,No,NA,No
+20.75,3,> 3,Masc,Medio,Bach,Sí,Indep,No
+26.72,NA,> 3,Fem,Medio,Bach,No,Indep,No
+NA,0,<= 3,Fem,Alto,Bach,No,Dep,Si
+43.29,2,> 3,Fem,Alto,Bach,No,Indep,No
+33.44,NA,> 3,Fem,Medio,Univ,Sí,Indep,Si
+38.47,6,> 3,Masc,NA,Bach,Sí,NA,Si
+36.08,NA,<= 3,Fem,NA,Univ,No,Dep,Si
+26.49,1,<= 3,Fem,Alto,Univ,Sí,Indep,Si
+53.62,2,> 3,Masc,NA,Bach,Sí,Indep,Si
+45.02,3,<= 3,Fem,Medio,Univ,Sí,Indep,Si
+31.39,2,> 3,Masc,Bajo,Univ,Sí,Indep,No
+27.72,1,> 3,Masc,Bajo,Bach,Sí,Indep,Si
+20.04,0,NA,Fem,Medio,Univ,No,Indep,No
+39.93,6,> 3,Masc,Alto,Bach,NA,Indep,Si
+40.73,0,> 3,Masc,Alto,Bach,Sí,NA,Si
+28.5,0,> 3,Masc,NA,Bach,Sí,Indep,Si
+26.22,2,<= 3,Fem,NA,Bach,No,NA,No
+47.71,NA,> 3,Fem,Alto,Bach,No,Indep,Si
+26.61,NA,> 3,Fem,Bajo,Bach,No,Indep,No
+28.44,1,> 3,Fem,Bajo,Univ,No,Indep,No
+NA,0,<= 3,Masc,Bajo,Bach,Sí,Dep,No
+23.9,6,<= 3,Fem,Medio,Bach,NA,Dep,Si
+26.24,2,<= 3,Fem,Medio,Bach,No,NA,No
+NA,1,> 3,NA,Alto,Bach,Sí,Dep,Si
+29.51,0,> 3,Fem,NA,Univ,No,Indep,No
+38.02,0,<= 3,Masc,Alto,Univ,Sí,Dep,Si
+55.93,5,<= 3,Fem,Alto,Univ,Sí,Indep,Si
+30.29,6,<= 3,Masc,Alto,Bach,Sí,NA,Si
+41.43,4,<= 3,Masc,Medio,Univ,NA,Dep,Si
+46.18,1,> 3,Masc,Medio,Univ,Sí,Indep,Si
+49.68,4,> 3,Fem,Medio,Bach,Sí,Indep,Si
+28.3,1,<= 3,Fem,Alto,Bach,NA,Dep,Si
+31.93,3,> 3,NA,Medio,Univ,Sí,Indep,Si
+NA,0,> 3,Fem,Medio,Bach,Sí,Indep,No
+26.21,0,NA,Fem,Bajo,Univ,No,Indep,No
+23.94,4,<= 3,Fem,Medio,Univ,No,NA,Si
+NA,2,NA,NA,Medio,Bach,Sí,Indep,No
+25.99,1,> 3,Masc,NA,Univ,Sí,Indep,No
+20.13,3,<= 3,Fem,Medio,Bach,Sí,Dep,Si
+23.05,0,<= 3,Masc,NA,Univ,Sí,NA,Si
+38.97,0,> 3,Masc,Medio,Univ,Sí,Indep,No
+28.81,0,> 3,Fem,Medio,Bach,Sí,Indep,No
+36.81,0,> 3,Fem,Alto,Univ,Sí,Indep,Si
+35.85,6,NA,Fem,Alto,Univ,Sí,Indep,Si
+44.47,3,> 3,Fem,Medio,Bach,No,Indep,No
+33.8,5,> 3,Masc,Alto,Bach,Sí,Indep,Si
+29.96,0,> 3,Fem,Bajo,Bach,Sí,NA,No
+39.27,3,> 3,Masc,Medio,Bach,NA,Indep,No
+40.5,0,> 3,Fem,Alto,Bach,Sí,Indep,Si
+33.93,1,<= 3,Masc,NA,Bach,Sí,NA,Si
+38.98,NA,<= 3,Masc,Medio,Bach,Sí,Dep,Si
+34.18,3,> 3,Fem,Alto,Univ,Sí,Indep,No
+34.13,5,<= 3,Masc,NA,NA,Sí,Dep,Si
+40.53,3,NA,Fem,Medio,Bach,Sí,Indep,Si
+25.1,6,<= 3,NA,Alto,Univ,Sí,Dep,Si
+28.92,2,> 3,Fem,Alto,Bach,Sí,NA,Si
+31.89,NA,> 3,Masc,Bajo,Univ,Sí,Indep,No
+43.87,4,> 3,Fem,Bajo,Bach,Sí,Indep,Si
+49.47,0,NA,Fem,Alto,Bach,NA,Dep,Si
+42.13,1,<= 3,Masc,Alto,NA,Sí,Dep,Si
+36.8,NA,> 3,NA,Bajo,Univ,No,Indep,No
+NA,5,> 3,Fem,Alto,Bach,No,Indep,Si
+30.41,1,NA,Masc,NA,Bach,Sí,Dep,Si
+31.82,3,> 3,Fem,Bajo,Bach,NA,Indep,No
+27.36,1,<= 3,Fem,Medio,Bach,No,Dep,No
+NA,3,<= 3,Masc,Medio,Univ,NA,Dep,Si
+51.33,4,<= 3,Masc,Alto,Bach,Sí,Dep,Si
+21.28,5,<= 3,Masc,NA,Univ,Sí,Dep,Si
+48.77,0,> 3,Fem,Alto,Bach,Sí,Indep,Si
+36.68,6,<= 3,Fem,Medio,Bach,Sí,NA,Si
+29.58,4,<= 3,Masc,Medio,Univ,Sí,Dep,Si
+23.77,6,<= 3,Masc,Alto,Univ,Sí,Dep,Si
+36.8,3,<= 3,Masc,Medio,Bach,Sí,Dep,Si
+30.69,2,> 3,Masc,Medio,Univ,Sí,Indep,Si
+NA,NA,<= 3,Masc,Medio,Univ,Sí,Dep,Si
+55.83,6,<= 3,Masc,Medio,Univ,Sí,Dep,Si
+30.95,3,NA,Fem,Medio,Univ,No,Indep,No
+39.58,2,NA,Fem,Alto,Univ,No,Dep,Si
+45.21,NA,<= 3,Masc,Bajo,Univ,Sí,Dep,Si
+37.58,1,> 3,Fem,Medio,Bach,NA,NA,No
+41.44,NA,<= 3,Masc,Alto,NA,Sí,NA,Si
+25.84,1,NA,Fem,Bajo,Bach,NA,Dep,No
+24.03,0,> 3,Fem,Bajo,Univ,No,NA,No
+35.93,NA,<= 3,Fem,Alto,Bach,No,Dep,Si
+34.3,2,<= 3,Fem,Medio,Bach,Sí,Dep,Si
+37.3,5,> 3,Fem,NA,Univ,No,Indep,Si
+25.01,1,> 3,NA,NA,Univ,No,Indep,No
+20.87,1,> 3,Masc,Bajo,Univ,Sí,Indep,No
+22.96,0,NA,Masc,Bajo,Univ,Sí,Indep,No
+46.21,5,> 3,NA,Alto,Univ,Sí,NA,Si
+47.97,NA,> 3,Masc,Bajo,Bach,Sí,Indep,No
+39.98,0,> 3,Fem,Alto,Bach,No,Indep,No
+28.18,3,> 3,Masc,Medio,Univ,Sí,Dep,Si
+27.76,5,> 3,Masc,Bajo,NA,Sí,Indep,Si
+36.23,0,> 3,Masc,Bajo,Bach,Sí,Indep,Si
+33.7,NA,> 3,Fem,NA,Univ,Sí,Indep,Si
+45.27,4,> 3,Masc,Medio,NA,Sí,Dep,Si
+27.88,3,<= 3,Fem,Medio,Univ,Sí,Dep,Si
+NA,NA,> 3,Masc,Medio,Bach,Sí,Indep,Si
+NA,2,> 3,NA,NA,Bach,Sí,Indep,Si
+27.63,0,> 3,Masc,Alto,NA,Sí,Indep,No
+23.6,0,<= 3,Masc,Medio,Bach,Sí,Indep,Si
+41.15,2,> 3,Fem,Alto,Univ,No,Indep,Si
+39.49,NA,> 3,Fem,NA,Bach,No,Indep,No
+35.11,2,> 3,Masc,Alto,Bach,Sí,Indep,Si
+29.11,1,> 3,NA,Alto,Bach,NA,Dep,No
+41.1,5,<= 3,Masc,Alto,Bach,Sí,Indep,Si
+36.11,2,> 3,Fem,Alto,Univ,Sí,Dep,Si
+23.23,0,> 3,Fem,Bajo,NA,No,NA,No
+NA,2,> 3,Fem,Medio,Univ,No,Dep,No
+26.43,5,> 3,Masc,Bajo,Univ,Sí,Indep,No
+48.05,3,<= 3,Masc,Alto,Univ,Sí,Indep,Si
+22.76,NA,NA,Masc,Alto,Univ,Sí,Dep,Si
+42.18,2,> 3,Fem,NA,Bach,No,Indep,Si
+25.71,6,<= 3,Fem,Medio,Univ,Sí,NA,Si
+NA,0,> 3,Fem,Medio,Univ,No,Indep,No
+35.22,3,NA,Fem,Medio,Bach,No,Indep,No
+33.18,4,> 3,Fem,Alto,Bach,Sí,NA,Si
+24.83,2,> 3,Masc,Bajo,Univ,Sí,Indep,No
+30.57,1,NA,Fem,Medio,Univ,No,Indep,No
+31.86,1,> 3,Masc,Alto,Univ,Sí,Indep,Si
+30.38,0,<= 3,NA,Medio,Bach,Sí,Dep,Si
+27.64,2,NA,Fem,Bajo,Univ,No,Indep,No
+39.48,3,<= 3,Masc,Medio,Bach,Sí,Dep,Si
+32.47,2,<= 3,Fem,NA,Univ,NA,Dep,Si
+30.79,NA,> 3,Masc,Bajo,NA,Sí,Indep,No
+27.06,3,> 3,Fem,Bajo,Bach,NA,Indep,No
+28.08,6,<= 3,Fem,Medio,Univ,Sí,Dep,Si
+NA,NA,> 3,Masc,Medio,Bach,Sí,Indep,No
+37.13,3,<= 3,Masc,Alto,NA,Sí,Dep,Si
+32.54,2,> 3,Masc,NA,Bach,Sí,Dep,No
+33.15,2,> 3,Masc,Medio,Univ,Sí,Indep,No
+37.39,0,> 3,Masc,Bajo,Univ,Sí,Indep,Si
+37.33,NA,> 3,Masc,Alto,Bach,Sí,Indep,Si
+41.62,3,> 3,Masc,Medio,Bach,Sí,Indep,No
+NA,5,<= 3,Fem,Medio,Univ,Sí,Dep,Si
+24.22,5,> 3,Masc,Alto,NA,Sí,Indep,Si
+NA,4,> 3,Masc,Alto,Bach,Sí,NA,Si
+22.18,3,> 3,Masc,Medio,Univ,Sí,Indep,No
+31.91,5,> 3,NA,Alto,Bach,Sí,Indep,Si
+25.51,2,NA,Masc,Medio,Bach,Sí,Indep,Si
+43.02,2,<= 3,Masc,Alto,Bach,Sí,NA,Si
+30.21,2,<= 3,NA,Bajo,Bach,Sí,NA,Si
+33.21,4,NA,Masc,Medio,Univ,Sí,Dep,Si
+NA,3,> 3,Fem,Medio,Bach,No,Indep,No
+50.12,2,> 3,NA,Bajo,Bach,Sí,Indep,No
+38.84,NA,> 3,NA,Bajo,NA,Sí,Indep,No
+46.42,4,> 3,NA,Alto,Univ,Sí,Indep,Si
+38.87,0,> 3,Fem,Alto,Bach,NA,Indep,Si
+22.99,2,> 3,Fem,Medio,Bach,No,Indep,No
+28.61,2,> 3,NA,Alto,Bach,Sí,NA,Si
+26.53,3,> 3,Fem,Bajo,Bach,No,Indep,No
+31.13,NA,<= 3,Masc,Medio,Univ,NA,Dep,Si
+38.35,NA,<= 3,Masc,Medio,Bach,Sí,Indep,Si
+24.7,2,<= 3,Fem,Medio,Univ,Sí,Dep,Si
+NA,4,> 3,NA,Medio,Bach,No,Indep,Si
+NA,2,> 3,Fem,Medio,Bach,No,Indep,No
+NA,0,> 3,Fem,Bajo,Bach,No,Indep,No
+30.81,6,> 3,Masc,Bajo,Bach,Sí,Indep,No
+23.63,2,> 3,Fem,Bajo,Bach,No,Indep,No
+34.11,0,> 3,Fem,Medio,Univ,Sí,NA,No
+20.73,NA,<= 3,Fem,Medio,Bach,No,NA,No
+25.47,3,<= 3,Masc,Alto,Univ,Sí,NA,Si
+NA,4,<= 3,Fem,Medio,Bach,Sí,Dep,Si
+38.08,4,<= 3,Fem,Alto,Bach,Sí,Indep,Si
+26.94,0,> 3,Masc,Medio,NA,Sí,Dep,No
+23.85,2,> 3,Fem,NA,Bach,No,Indep,No
+44.61,2,> 3,Fem,Bajo,Bach,No,Dep,No
+21.01,3,> 3,NA,Bajo,Bach,Sí,Indep,No
+47.65,1,> 3,Masc,Alto,Univ,Sí,Indep,Si
+22.93,2,> 3,Fem,Bajo,Univ,No,Indep,No
+47.14,1,> 3,Masc,Alto,Bach,Sí,NA,Si
+41.79,4,> 3,Masc,Bajo,Bach,Sí,Indep,No
+27.02,5,> 3,Masc,Alto,Univ,Sí,Indep,Si
+27.92,4,> 3,Fem,Medio,Univ,Sí,Indep,Si
+35.78,NA,> 3,Masc,Medio,Bach,Sí,Indep,Si
+42.1,2,<= 3,Masc,Medio,Bach,Sí,Indep,Si
+21.05,2,<= 3,Masc,Bajo,Bach,Sí,Dep,No
+35.1,1,> 3,NA,Bajo,Univ,No,Indep,No
+NA,6,> 3,Fem,NA,Bach,Sí,Dep,Si
+38.42,1,<= 3,Masc,Alto,Bach,Sí,Dep,Si
+21.38,6,NA,Masc,Medio,Bach,Sí,Indep,No
+22.73,3,<= 3,Masc,Medio,NA,Sí,Dep,No
+42.08,6,<= 3,Masc,Medio,Univ,Sí,NA,Si
+NA,1,NA,Masc,Medio,Bach,Sí,Indep,Si
+47.66,3,NA,Masc,Bajo,Bach,Sí,Indep,No
+22.08,1,> 3,Fem,Medio,Univ,No,Indep,No
+30.89,NA,<= 3,Fem,Medio,Univ,Sí,Dep,Si
+31.99,0,<= 3,Fem,Alto,Univ,No,Indep,No
+27.92,0,> 3,NA,Medio,Univ,Sí,NA,Si
+43.92,2,> 3,Masc,Bajo,Bach,Sí,Indep,No
+NA,5,> 3,Masc,Alto,Bach,Sí,NA,Si
+40.66,6,NA,Fem,Alto,Bach,Sí,Dep,Si
+35.82,1,> 3,Fem,Medio,Bach,No,Indep,No
+20.6,0,> 3,Fem,Medio,Univ,No,Indep,No
+42.06,2,> 3,Masc,Alto,Bach,Sí,Dep,Si
+NA,3,> 3,Fem,Alto,Univ,Sí,Indep,Si
+24.12,3,> 3,Fem,NA,Bach,No,Indep,No
+22.73,1,> 3,NA,Medio,Univ,Sí,Indep,No
+39.52,5,<= 3,Masc,Alto,Univ,Sí,Indep,Si
+26.66,NA,<= 3,Fem,Bajo,Univ,No,Dep,No
+36.05,3,> 3,NA,Bajo,Bach,Sí,NA,No
+33.91,5,<= 3,Masc,Alto,Bach,Sí,Indep,Si
+39.15,5,NA,Masc,Medio,Univ,Sí,Indep,Si
+35.18,2,> 3,Masc,Medio,Bach,Sí,Indep,No
+34.86,NA,> 3,Masc,Medio,Univ,Sí,Indep,Si
+32.06,5,<= 3,Masc,Medio,Univ,Sí,Dep,Si
+33.76,3,> 3,Masc,Alto,Bach,Sí,NA,Si
+NA,0,NA,Fem,Medio,Bach,Sí,Indep,Si
+30.76,0,> 3,Masc,Bajo,NA,Sí,NA,No
+32.17,2,<= 3,NA,Alto,Univ,Sí,Dep,Si
+27.87,1,NA,Fem,Medio,Bach,No,Dep,Si
+41.59,0,> 3,Masc,Medio,Bach,Sí,Indep,No
+43.95,0,<= 3,Masc,Medio,Bach,Sí,Dep,Si
+40.86,NA,> 3,Masc,Alto,NA,Sí,Dep,Si
+37.07,6,> 3,NA,Bajo,Univ,Sí,Dep,Si
+29.61,5,> 3,Masc,Alto,Bach,Sí,Indep,Si
+30.09,2,<= 3,NA,Medio,Univ,Sí,Dep,No
+NA,NA,> 3,Masc,Alto,Bach,Sí,Indep,Si
+20.96,NA,> 3,NA,Bajo,Bach,No,Dep,No
+42.29,4,> 3,Fem,Alto,Bach,NA,Indep,Si
+37.52,0,> 3,Masc,Medio,Univ,Sí,Indep,Si
+29.17,NA,> 3,Masc,Alto,NA,Sí,Indep,Si
+36.21,5,> 3,Masc,Alto,Univ,Sí,Indep,Si
+27.33,3,> 3,Masc,Bajo,Univ,Sí,Indep,No
+54.58,1,<= 3,NA,Alto,Univ,NA,Dep,Si
+46.48,NA,<= 3,NA,Bajo,NA,Sí,Dep,Si
+28.98,5,<= 3,Masc,Bajo,Bach,Sí,NA,Si
+28.65,NA,> 3,Fem,Medio,Univ,Sí,Indep,Si
+27.65,NA,> 3,Masc,Bajo,Univ,Sí,Dep,No
+37.86,0,> 3,Masc,Bajo,Bach,NA,Indep,Si
+32.4,3,> 3,Fem,NA,Bach,Sí,Indep,No
+51.11,1,<= 3,Fem,NA,Univ,No,Dep,Si
+NA,1,> 3,Fem,NA,Bach,No,Indep,No
+28.41,0,> 3,Masc,Medio,Univ,Sí,Dep,Si
+39.68,1,> 3,Fem,Alto,NA,No,Dep,Si
+NA,4,<= 3,Fem,Medio,Bach,No,Dep,Si
+38.39,2,<= 3,Fem,Medio,Bach,No,Dep,No
+42.23,5,<= 3,Masc,Medio,Bach,Sí,Dep,Si
+30.01,2,> 3,Masc,NA,Bach,Sí,Indep,Si
+35.74,NA,<= 3,NA,Alto,Univ,NA,Dep,Si
+46.76,0,> 3,Masc,Medio,NA,Sí,Indep,No
+33.31,6,<= 3,Masc,Alto,Bach,Sí,Dep,Si
+42.35,4,> 3,NA,Medio,Univ,Sí,Indep,Si
+42.06,3,<= 3,Masc,Medio,Univ,Sí,Dep,Si
+50.67,0,> 3,Fem,NA,Univ,Sí,Indep,Si
+22.63,2,NA,Masc,Bajo,Bach,Sí,Indep,No
+33.04,1,<= 3,Fem,Alto,Bach,Sí,Indep,Si
+38.36,4,> 3,Fem,Medio,NA,Sí,Indep,Si
+40.45,4,<= 3,Masc,Medio,Bach,Sí,Indep,Si
+43.57,0,> 3,Fem,Bajo,Univ,NA,Dep,No
+46.33,0,<= 3,NA,Alto,Bach,Sí,NA,Si
+32.91,1,> 3,Fem,Medio,Univ,No,Indep,No
+44.56,NA,> 3,Fem,Medio,Bach,No,Indep,No
+37.83,4,> 3,Masc,Medio,Bach,Sí,NA,Si
+20.12,NA,NA,Masc,Medio,NA,Sí,Indep,No
+44.69,3,> 3,Fem,Medio,Bach,No,Indep,No
+32.69,3,<= 3,NA,Alto,Bach,Sí,Dep,Si
+28.69,NA,> 3,Fem,Medio,Univ,Sí,Indep,Si
+NA,4,> 3,Fem,Alto,Bach,NA,Indep,Si
+50.61,0,> 3,Masc,Medio,Univ,Sí,Indep,Si
+22.05,NA,<= 3,Fem,Alto,Univ,No,Dep,Si
+26.27,3,> 3,Fem,NA,Univ,No,Dep,Si
+28.95,2,NA,NA,Alto,Univ,Sí,Indep,Si
+34.97,3,<= 3,Masc,Alto,Univ,Sí,Dep,Si
+51.05,1,> 3,NA,Alto,Univ,Sí,Indep,Si
+41.43,5,NA,Masc,Medio,Bach,Sí,Dep,Si
+22.72,3,> 3,Fem,Medio,Bach,No,Indep,No
+27.76,6,> 3,Masc,Medio,Bach,Sí,NA,Si
+34.89,3,<= 3,Masc,Medio,Bach,Sí,Dep,Si
+25.57,4,> 3,Fem,NA,Bach,Sí,Indep,Si
+27.7,1,> 3,Masc,Alto,Univ,Sí,NA,No
+37.67,2,<= 3,Fem,NA,Bach,Sí,Dep,Si
+24.41,1,> 3,Fem,Medio,NA,No,Indep,No
+28.56,5,> 3,Masc,Alto,Bach,Sí,Indep,Si
+27.49,2,> 3,Fem,Bajo,Univ,Sí,Indep,No
+44.51,3,> 3,Masc,Medio,Bach,NA,Indep,Si
+26.72,2,> 3,Masc,Alto,Bach,Sí,Dep,Si
+48.3,1,<= 3,Masc,Alto,Univ,Sí,Dep,Si
+30.33,5,<= 3,Masc,Medio,NA,Sí,Dep,Si
+39.09,5,<= 3,NA,Medio,Univ,Sí,Dep,Si
+34.21,1,> 3,NA,Alto,Univ,Sí,NA,Si
+26.05,1,<= 3,NA,Medio,Bach,Sí,Dep,Si
+43.42,6,<= 3,Masc,Alto,Bach,Sí,Indep,Si
+22.24,1,> 3,Fem,Medio,Univ,No,Indep,No
+29.24,0,> 3,Fem,Bajo,Bach,No,Indep,No
+28.42,4,<= 3,Masc,Bajo,Bach,Sí,Dep,No
+25.11,2,> 3,Fem,Medio,Bach,No,Indep,No
+29.92,1,> 3,Fem,NA,NA,NA,Indep,No
+49.92,1,<= 3,Fem,Medio,Univ,Sí,Dep,Si
+35.24,2,> 3,Fem,Bajo,Univ,No,Indep,No
+38.68,3,> 3,Fem,Medio,Univ,NA,Indep,No
+27.93,5,<= 3,NA,Medio,Bach,Sí,Indep,Si
+20.59,3,> 3,Fem,Medio,NA,No,Dep,No
+39.69,4,> 3,Fem,Medio,Bach,Sí,Indep,Si
+35.01,5,> 3,Fem,Medio,Univ,NA,Indep,Si
+35,5,> 3,Masc,NA,Univ,Sí,Indep,Si
+39.29,3,> 3,Fem,Medio,Univ,No,Indep,No
+20.27,0,> 3,Masc,Medio,Bach,Sí,Indep,No
+29.34,0,<= 3,Fem,Medio,Bach,Sí,Dep,Si
+24.59,2,> 3,Masc,Medio,Univ,Sí,Indep,No
+30.56,4,> 3,Masc,Medio,Univ,Sí,Indep,Si
+36.75,4,NA,NA,Alto,Bach,NA,Indep,Si
+32.45,0,> 3,Fem,Medio,Bach,No,Indep,No
+42.08,3,> 3,Masc,Medio,Bach,Sí,Indep,No
+53.7,3,> 3,Fem,Medio,Bach,Sí,NA,Si
+52.36,5,<= 3,Fem,Medio,Bach,Sí,Dep,Si
+25.53,4,> 3,Fem,Alto,Univ,Sí,Dep,Si
+53.42,4,> 3,Masc,Alto,Univ,Sí,Indep,Si
+37.85,6,> 3,Masc,Medio,NA,Sí,Indep,No
+25.38,1,> 3,NA,Medio,Bach,No,Indep,No
+25.83,4,> 3,Masc,NA,Univ,Sí,NA,Si
+28.46,3,<= 3,Fem,Alto,Univ,No,NA,No
+28.23,1,> 3,Fem,NA,Univ,No,Dep,No
+35.86,2,<= 3,Fem,Medio,Bach,Sí,Dep,Si
+53.07,6,> 3,NA,Alto,Univ,Sí,Indep,Si
+54.8,4,> 3,NA,Alto,NA,Sí,Indep,No
+40.11,2,<= 3,Fem,Alto,Bach,Sí,NA,Si
+NA,2,<= 3,Masc,Bajo,Bach,Sí,Dep,No
+NA,2,<= 3,Masc,Bajo,Bach,Sí,NA,Si
+35.58,6,<= 3,Masc,Medio,Bach,Sí,Dep,Si
+47.19,3,<= 3,Fem,Medio,Univ,No,Dep,Si
+27.61,NA,> 3,Masc,Alto,Bach,Sí,Indep,No
+23.53,1,> 3,Fem,Bajo,Bach,No,Indep,No
+25.05,3,> 3,Masc,Alto,Bach,Sí,Indep,Si
+34.32,4,<= 3,NA,Medio,Univ,Sí,Dep,Si
+23.95,3,> 3,NA,Bajo,NA,NA,Dep,No
+NA,1,> 3,NA,Bajo,Univ,No,Indep,No
+28.23,0,> 3,Fem,Medio,Bach,Sí,Indep,No
+50.83,0,> 3,Fem,Bajo,Univ,No,Indep,No
+52.95,2,> 3,Fem,Bajo,Bach,No,Indep,No
+NA,6,> 3,Masc,Medio,Bach,Sí,Indep,Si
+44.2,6,<= 3,Fem,Medio,Bach,No,Dep,Si
+30.86,1,> 3,NA,Medio,Univ,Sí,Indep,Si
+23.91,5,> 3,Fem,Alto,Univ,Sí,Indep,Si
+27.79,5,<= 3,Fem,Alto,Bach,Sí,Dep,Si
+40.83,2,<= 3,Fem,Medio,Bach,NA,Dep,Si
+27.9,3,<= 3,Fem,Medio,Univ,No,Indep,No
+50.46,2,> 3,Masc,Medio,Bach,Sí,NA,Si
+27,NA,> 3,Fem,Bajo,Bach,No,NA,No
+29.68,3,NA,Masc,Alto,Univ,Sí,NA,Si
+20.76,5,<= 3,Masc,Medio,Bach,Sí,NA,No
+35.59,6,<= 3,Fem,Medio,Univ,Sí,Dep,Si
+31.35,0,> 3,NA,Medio,Univ,No,Indep,No
+39.07,0,<= 3,Fem,Medio,Univ,Sí,Dep,Si
+34.08,2,> 3,Masc,Bajo,Bach,Sí,Indep,No
+37.82,4,> 3,Fem,Medio,Bach,No,Indep,Si
+40.98,5,<= 3,Masc,Alto,Bach,Sí,Dep,Si
+28.64,1,> 3,Masc,NA,Bach,Sí,Indep,Si
+43.74,2,<= 3,Masc,Medio,Univ,Sí,Dep,Si
+32.61,0,> 3,Fem,Medio,Univ,No,Indep,No
+41.21,2,> 3,Masc,Medio,Bach,Sí,Indep,Si
+46.65,0,NA,Fem,Alto,Bach,Sí,Dep,Si
+20.5,3,> 3,Fem,Bajo,Univ,Sí,Dep,No
+41.42,6,<= 3,Fem,NA,Univ,Sí,Dep,Si
+23.1,6,> 3,Masc,NA,Univ,Sí,Indep,Si
+29.07,NA,NA,Fem,Medio,Bach,Sí,Dep,Si
+30.65,NA,> 3,Masc,Alto,Bach,Sí,Indep,Si
+30.99,NA,<= 3,Masc,Alto,Bach,Sí,Dep,Si
+21.66,0,<= 3,Masc,Alto,Univ,Sí,Dep,Si
+25.63,3,> 3,Fem,Medio,Bach,No,Indep,No
+36.75,NA,<= 3,Masc,Medio,Univ,Sí,Dep,Si
+50.98,6,<= 3,Masc,Bajo,Univ,NA,Indep,Si
+30.57,0,NA,Fem,NA,Bach,No,Indep,No
+27.88,3,> 3,Fem,Medio,Univ,No,Indep,No
+44.26,5,> 3,NA,Alto,Bach,Sí,Indep,Si
+20.64,3,> 3,Fem,NA,Univ,No,Dep,No
+48.5,2,> 3,Masc,Alto,Bach,Sí,Indep,Si
+33.3,NA,> 3,Masc,NA,Univ,Sí,Indep,Si
+27.97,6,> 3,Masc,Medio,Univ,Sí,Indep,Si
+53.14,4,> 3,NA,Alto,Bach,Sí,Indep,Si
+36.66,0,> 3,Fem,Medio,Bach,No,Indep,No
+46.05,NA,> 3,Masc,Medio,Univ,Sí,Indep,Si
+33.33,2,> 3,Fem,Alto,Bach,Sí,Indep,No
+36.69,2,<= 3,Masc,Alto,Univ,Sí,Dep,Si
+35.41,6,> 3,Masc,Medio,Bach,Sí,Indep,No
+23.82,1,> 3,Masc,Alto,Bach,Sí,NA,Si
+37.86,0,> 3,Fem,NA,Univ,No,Indep,Si
+26.92,3,> 3,Fem,Medio,Univ,No,NA,No
+23.51,0,> 3,Masc,Medio,Bach,Sí,Indep,No
+23.79,2,> 3,Fem,Bajo,NA,No,Indep,No
+26.6,2,NA,Masc,Alto,Univ,Sí,Indep,Si
+24.54,1,> 3,Fem,Medio,Univ,No,Indep,No
+35.57,5,<= 3,Masc,Medio,Bach,Sí,NA,Si
+39.89,0,<= 3,Masc,Medio,Univ,Sí,Dep,Si
+29.28,1,> 3,Masc,Medio,Bach,Sí,Indep,No
+30.9,1,> 3,NA,Alto,Bach,Sí,Indep,Si
+47.83,1,<= 3,Fem,Alto,Bach,Sí,Dep,Si
+42.21,1,<= 3,NA,Alto,Univ,Sí,Dep,Si
+27.85,3,> 3,NA,Medio,Univ,No,Indep,No
+46.9,3,> 3,Masc,Medio,Bach,Sí,Indep,Si
+20.79,6,> 3,Masc,Bajo,Univ,Sí,Indep,No
+32.59,5,<= 3,Fem,Medio,Bach,Sí,Indep,Si
+33.1,4,> 3,Masc,NA,Bach,Sí,Indep,No
+25.53,1,> 3,NA,Medio,Bach,Sí,Indep,No
+37.55,0,<= 3,Fem,Medio,Bach,No,Dep,Si
+51.66,0,> 3,NA,Medio,Bach,Sí,Indep,Si
+35.7,4,> 3,Fem,Medio,NA,Sí,Dep,Si
+35.39,3,<= 3,Fem,Medio,Bach,Sí,Dep,Si
+25.16,3,<= 3,Masc,Alto,Bach,Sí,Dep,Si
+31.67,3,<= 3,Fem,NA,Bach,Sí,Dep,Si
+20.9,NA,NA,Fem,Medio,Bach,Sí,Dep,Si
+39.5,6,<= 3,Masc,Alto,Bach,Sí,Dep,Si
+43.09,0,<= 3,Masc,Alto,NA,Sí,NA,Si
+26.3,4,> 3,Masc,Medio,Univ,Sí,Indep,No
+44.74,6,<= 3,Masc,Alto,NA,Sí,Dep,Si
+24.56,6,> 3,Masc,Medio,Univ,Sí,Indep,No
+33.09,2,NA,Fem,Bajo,Univ,No,Indep,No
+45.96,2,<= 3,Masc,Medio,Univ,Sí,Dep,Si
+32.96,3,> 3,Fem,Bajo,Univ,No,NA,No
+38.58,5,<= 3,Masc,Alto,Univ,Sí,Dep,Si
+35.42,0,<= 3,Masc,Alto,Univ,Sí,Indep,Si
+32.17,NA,> 3,Masc,Bajo,Bach,Sí,Indep,No
+24.95,3,<= 3,Fem,Medio,Univ,Sí,Indep,Si
+40.76,0,> 3,Fem,Bajo,Bach,No,Indep,No
+20.75,1,> 3,Masc,NA,Univ,Sí,Dep,Si
+NA,4,> 3,Fem,Medio,Univ,NA,NA,Si
+42.87,3,<= 3,Fem,Alto,Bach,Sí,Dep,Si
+35.14,4,<= 3,Masc,Alto,Univ,Sí,Dep,Si
+39.26,2,NA,Fem,Medio,Bach,Sí,NA,Si
+35.86,5,> 3,Masc,Medio,Bach,Sí,Indep,Si
+24.31,2,> 3,Masc,Medio,Univ,Sí,Indep,No
+NA,NA,NA,Masc,Medio,Bach,Sí,Indep,Si
+45.97,3,> 3,Fem,Bajo,NA,No,Indep,No
+NA,5,NA,Fem,Medio,Bach,Sí,Dep,Si
+NA,0,NA,Masc,Alto,Bach,Sí,Dep,Si
+43.45,1,> 3,Fem,Bajo,NA,Sí,Indep,Si
+30.15,0,> 3,Fem,Bajo,Bach,No,Indep,No
+36.62,2,> 3,Fem,Medio,Univ,No,Indep,No
+NA,0,> 3,Masc,Medio,Univ,Sí,Indep,Si
+26.09,1,> 3,Masc,Medio,NA,Sí,Indep,No
+50.69,0,> 3,Masc,NA,Univ,Sí,Indep,Si
+35.71,NA,> 3,Masc,Medio,Bach,Sí,Indep,Si
+38.89,3,> 3,Masc,Medio,Univ,Sí,Indep,No
+34.32,0,<= 3,Fem,Medio,Bach,No,Indep,Si
+29.41,3,> 3,NA,Bajo,Univ,Sí,NA,No
+39.02,4,<= 3,Fem,Medio,Univ,No,Dep,Si
+41.42,4,<= 3,Masc,Bajo,Bach,NA,Dep,Si
+NA,4,> 3,Masc,Bajo,Bach,Sí,Indep,Si
+38.01,6,> 3,NA,Alto,Univ,Sí,Indep,Si
+51.25,4,> 3,Masc,Alto,Bach,Sí,NA,Si
+34.76,1,> 3,Fem,Medio,Bach,No,Indep,Si
+31.34,2,> 3,NA,Medio,Univ,Sí,Indep,Si
+25.44,1,<= 3,Masc,Medio,Bach,Sí,Dep,Si
+34.91,0,<= 3,Fem,NA,Univ,Sí,Indep,Si
+26.82,3,> 3,NA,Medio,Bach,No,Indep,No
+44.85,2,> 3,Masc,Medio,Univ,Sí,Indep,Si
+40.97,1,> 3,Masc,Alto,Univ,Sí,Indep,Si
+39.6,NA,> 3,Fem,Bajo,Univ,No,Indep,No
+34.23,5,NA,Masc,Bajo,Bach,Sí,Indep,No
+32.92,2,> 3,Fem,Bajo,Bach,No,Indep,No
+41.74,0,> 3,Masc,Medio,Bach,Sí,Indep,Si
+35.76,4,<= 3,Masc,Medio,Bach,Sí,Dep,Si
+26.67,3,> 3,Fem,Alto,NA,No,Indep,No
+NA,NA,NA,Fem,Medio,Bach,No,Dep,Si
+39.16,4,> 3,Masc,Medio,NA,NA,Indep,No
+39.11,0,> 3,Fem,NA,Bach,No,Dep,Si
+22.36,4,<= 3,Masc,Alto,Bach,Sí,NA,Si
+22.61,2,> 3,Masc,Medio,Univ,Sí,Indep,No
+25.01,6,<= 3,Masc,Medio,Bach,Sí,Dep,Si
+20.31,3,> 3,Masc,Medio,Univ,Sí,Indep,No
+NA,6,<= 3,Masc,Medio,Bach,NA,Dep,Si
+32.79,6,<= 3,Masc,Medio,Bach,NA,Dep,Si
+37.33,3,> 3,Fem,Bajo,Bach,No,Indep,No
+28.13,1,> 3,Fem,Medio,NA,Sí,Indep,No
+22.76,3,NA,Fem,Bajo,Univ,NA,Indep,No
+31.5,0,NA,Fem,Alto,Bach,Sí,Dep,Si
+NA,1,> 3,Fem,Medio,Bach,No,NA,No
+29.08,2,<= 3,NA,Bajo,Bach,Sí,Dep,No
+46.56,4,<= 3,Masc,Medio,Univ,Sí,NA,Si
+26.09,6,<= 3,Masc,Alto,Bach,Sí,NA,Si
+24.04,3,> 3,Fem,Bajo,Univ,No,Indep,No
+33.89,4,> 3,NA,Medio,Univ,Sí,Indep,Si
+33.95,0,> 3,Masc,Medio,Univ,Sí,Indep,No
+NA,0,> 3,Fem,NA,Bach,No,Indep,No
+33.46,2,NA,Masc,Medio,Bach,Sí,Indep,Si
+37,3,<= 3,Masc,Medio,Bach,Sí,Dep,Si
+39.22,0,> 3,Masc,Medio,Univ,Sí,Indep,Si
+34.7,1,> 3,Masc,Alto,Bach,Sí,Indep,Si
+NA,6,> 3,Masc,Alto,Bach,Sí,NA,Si
+32.75,4,<= 3,Masc,NA,Univ,Sí,Dep,Si
+NA,2,> 3,Masc,NA,Univ,Sí,Indep,No
+NA,1,> 3,Masc,Bajo,Univ,Sí,Indep,No
+34.76,5,NA,Fem,Alto,NA,No,Indep,Si
+37.45,2,> 3,Fem,Medio,Bach,No,Dep,No
+33.85,0,> 3,Fem,Bajo,NA,Sí,Indep,No
+26.13,6,> 3,Masc,Medio,Bach,Sí,Indep,No
+25.82,0,<= 3,Masc,Alto,Univ,Sí,Dep,Si
+37.19,6,<= 3,Masc,Medio,Bach,Sí,Dep,Si
+28.08,4,> 3,Masc,Alto,Bach,Sí,Indep,Si
+22.19,3,> 3,Fem,Bajo,Bach,Sí,Indep,No
+34.56,0,> 3,Fem,Alto,Univ,Sí,Indep,Si
+21.34,0,> 3,Masc,Bajo,Univ,Sí,NA,No
+32.75,6,<= 3,Masc,Alto,Bach,Sí,Dep,Si
+34.12,NA,<= 3,NA,NA,Univ,Sí,NA,Si
+34.23,0,> 3,Fem,Bajo,Bach,Sí,Indep,No
+40.12,1,> 3,Fem,Bajo,Univ,Sí,NA,No
+NA,0,> 3,Masc,Alto,Bach,Sí,Dep,No
+45.72,6,NA,NA,Medio,Univ,Sí,NA,Si
+31.2,2,> 3,Fem,Medio,Univ,No,Indep,No
+33.83,1,NA,Masc,Medio,Bach,Sí,Indep,No
+28.14,NA,> 3,Fem,Bajo,Univ,No,Indep,No
+35.28,NA,<= 3,Masc,Medio,Univ,Sí,Dep,Si
+34.04,5,<= 3,Masc,Medio,Bach,Sí,Dep,Si
+40.99,1,NA,Masc,Bajo,Bach,Sí,NA,No
+41.5,3,<= 3,Fem,Alto,Bach,Sí,Dep,Si
+40.51,2,> 3,Fem,Medio,Univ,No,Indep,No
+32.68,2,> 3,Fem,Bajo,Bach,Sí,Indep,No
+24.88,NA,NA,Masc,Bajo,Bach,Sí,NA,No
+43.86,0,<= 3,Fem,Alto,Bach,Sí,NA,Si
+20.48,0,> 3,Masc,Medio,Univ,Sí,Dep,No
+47.3,5,> 3,NA,Bajo,Bach,Sí,Indep,Si
+48.43,4,<= 3,Fem,Medio,Bach,No,Indep,Si
+37.31,NA,NA,NA,Alto,Bach,No,Indep,No
+38.7,NA,> 3,NA,Alto,Univ,Sí,Indep,Si
+32,NA,> 3,Fem,Bajo,Bach,No,Indep,No
+21.86,3,> 3,Fem,Medio,Bach,No,Indep,No
+46.34,3,<= 3,Masc,Alto,Univ,Sí,Dep,Si
+24.85,0,<= 3,Fem,Alto,NA,Sí,Dep,Si
+46.99,0,<= 3,Fem,Alto,Bach,Sí,Dep,Si
+34.63,6,> 3,Masc,Bajo,Univ,Sí,Indep,Si
+26.96,1,> 3,Fem,Bajo,Univ,Sí,Indep,No
+42.83,2,> 3,NA,Alto,Univ,Sí,Indep,Si
+NA,1,<= 3,Masc,Alto,Univ,Sí,Dep,No
+47.34,1,NA,Masc,Bajo,Bach,Sí,Indep,Si
+37.75,0,> 3,Fem,Medio,Univ,Sí,Indep,No
+28.98,5,> 3,Masc,Bajo,Bach,Sí,Indep,No
+39.46,0,> 3,Fem,Bajo,Bach,NA,Indep,No
+27.91,3,> 3,Fem,Medio,Univ,No,Indep,No
+NA,0,<= 3,Masc,Medio,NA,Sí,Dep,No
+NA,1,> 3,Fem,Medio,Bach,No,Indep,No
+41.67,NA,NA,Fem,Medio,Bach,NA,NA,No
+34.95,4,> 3,Masc,Alto,Bach,Sí,Indep,Si
+21.69,2,> 3,Masc,Alto,NA,Sí,NA,Si
+36.75,6,> 3,Fem,Medio,Univ,No,Indep,Si
+40.44,6,> 3,Masc,Alto,Bach,Sí,Indep,Si
+43.74,0,<= 3,Masc,Alto,Univ,Sí,Dep,Si
+34.82,NA,<= 3,Fem,Medio,Univ,NA,Dep,Si
+45.83,4,> 3,Masc,Alto,NA,Sí,Indep,Si
+24.89,6,> 3,Masc,NA,Univ,Sí,Indep,No
+39.54,3,<= 3,Fem,Medio,Bach,NA,Dep,Si
+38.32,2,> 3,Masc,Alto,Bach,Sí,Indep,Si
+20.52,1,> 3,Fem,Bajo,Bach,No,Indep,No
+29.17,2,> 3,Fem,Bajo,Univ,No,Indep,No
+31.08,0,<= 3,Masc,Medio,Bach,Sí,Dep,Si
+NA,4,> 3,Masc,Alto,Univ,Sí,Indep,Si
+28.01,3,> 3,Fem,Bajo,Bach,Sí,Indep,No
+44.84,3,> 3,Fem,Alto,Univ,Sí,Indep,Si
+47.18,6,<= 3,Fem,Medio,Univ,No,Dep,Si
+33.89,NA,<= 3,Masc,Alto,Bach,Sí,Dep,Si
+29.49,2,> 3,Masc,Bajo,Bach,Sí,Indep,No
+29.25,1,> 3,Fem,Bajo,NA,No,NA,No
+24.55,0,> 3,Masc,Medio,NA,Sí,Indep,No
+44.25,6,<= 3,Fem,Medio,Bach,NA,Dep,Si
+39.7,NA,NA,Masc,Alto,NA,Sí,Indep,Si
+29.48,1,> 3,Masc,Medio,Bach,NA,Indep,Si
+32.85,1,<= 3,Fem,Medio,Bach,Sí,Indep,Si
+37.61,1,> 3,Fem,Alto,Univ,No,Indep,No
+NA,4,NA,Masc,Medio,Univ,NA,Dep,Si
+37.52,2,<= 3,NA,Alto,Univ,No,Dep,Si
+27.85,3,> 3,Fem,Medio,Bach,No,NA,Si
+NA,5,> 3,Masc,Bajo,Bach,Sí,Indep,No
+NA,1,<= 3,Fem,Bajo,Bach,No,Dep,No
+NA,0,NA,NA,Bajo,Univ,No,Indep,No
+30.62,2,> 3,Fem,Alto,Univ,No,NA,Si
+24.38,1,> 3,Masc,Medio,Univ,Sí,NA,No
+39.7,1,<= 3,Masc,Medio,Bach,Sí,Dep,Si
+39.03,1,> 3,Masc,Alto,Univ,Sí,Indep,Si
+37.07,1,<= 3,Fem,Medio,Bach,No,Dep,No
+22.69,6,<= 3,Masc,Alto,Univ,Sí,Dep,Si
+36.54,NA,<= 3,Masc,Medio,Univ,Sí,Dep,Si
+NA,0,> 3,NA,NA,Bach,Sí,Indep,Si
+46.56,0,> 3,Masc,Bajo,Bach,Sí,Indep,No
+39,0,NA,Fem,Medio,NA,NA,Indep,Si
+34.11,4,<= 3,Masc,Medio,Bach,NA,Dep,Si
+42.49,1,> 3,Masc,Medio,Bach,Sí,Indep,Si
+34.36,0,> 3,Fem,NA,Univ,No,Dep,No
+28.46,3,> 3,Fem,Medio,Bach,Sí,Dep,No
+NA,1,> 3,Fem,Medio,Univ,NA,Indep,No
+24.76,3,> 3,Masc,Bajo,NA,Sí,Indep,No
+24.97,3,<= 3,NA,Bajo,Univ,No,Dep,No
+28.57,6,> 3,NA,Bajo,NA,Sí,Indep,Si
+46.38,NA,> 3,Masc,Medio,Univ,Sí,Indep,Si
+26.28,NA,NA,Masc,Bajo,Bach,Sí,Indep,No
+23.5,2,<= 3,Masc,Bajo,Bach,Sí,Dep,No
+40.89,0,> 3,Masc,Medio,Univ,Sí,Indep,Si
+34.19,4,<= 3,NA,Medio,Univ,Sí,Dep,Si
+30.26,1,> 3,Fem,Medio,Univ,No,NA,No
+NA,2,> 3,Masc,Medio,Bach,Sí,Indep,No
+28.05,0,> 3,NA,Alto,Bach,No,Indep,No
+40.69,1,<= 3,Masc,Medio,Univ,Sí,Dep,Si
+36.94,2,> 3,Fem,Medio,Bach,Sí,NA,No
+26.16,4,<= 3,Fem,Medio,Bach,NA,Dep,Si
+51.91,0,> 3,Fem,Medio,Univ,No,Dep,No
+38.69,2,<= 3,Masc,Medio,Bach,Sí,Indep,Si
+30.4,1,> 3,Fem,Alto,Bach,Sí,Indep,Si
+28.83,2,<= 3,Fem,Alto,NA,Sí,Dep,Si
+30.82,2,> 3,Masc,Medio,Bach,Sí,Indep,No
+20.97,5,> 3,Masc,Medio,Bach,Sí,NA,No
+28.4,1,> 3,Fem,Alto,Univ,Sí,Indep,Si
+58.42,5,> 3,Fem,Medio,Univ,No,Dep,Si
+40.4,3,> 3,Fem,Bajo,Univ,No,Indep,No
+NA,3,NA,Fem,Bajo,Bach,No,Indep,No
+34.75,0,<= 3,Fem,Medio,Bach,No,Dep,Si
+23.97,6,> 3,Masc,Alto,Univ,Sí,Indep,No
+41.7,6,> 3,Fem,Bajo,Bach,Sí,Dep,Si
+29.3,NA,> 3,Masc,Alto,Bach,Sí,Dep,No
+42.37,NA,NA,Masc,Medio,Bach,Sí,Indep,Si
+62.45,4,> 3,NA,Medio,Univ,Sí,Dep,Si
+22.92,6,> 3,Fem,Medio,Univ,No,Indep,Si
+42.87,3,<= 3,Masc,Alto,Bach,Sí,Dep,Si
+23.69,0,> 3,Masc,Alto,Bach,Sí,Indep,Si
+22.92,3,<= 3,Fem,NA,NA,Sí,Dep,Si
+27.39,0,<= 3,Masc,Alto,Bach,Sí,Dep,Si
+34.26,2,<= 3,Fem,Medio,Univ,Sí,Dep,No
+28.3,1,<= 3,Masc,Alto,Bach,Sí,Dep,Si
+25.19,6,> 3,Masc,Alto,Univ,Sí,Indep,Si
+25.15,1,> 3,NA,Medio,Univ,No,Indep,No
+20.47,3,<= 3,Masc,Medio,Bach,Sí,Indep,Si
+35.67,0,> 3,Fem,Medio,Bach,No,Indep,No
+36.42,5,<= 3,Masc,Alto,NA,Sí,Dep,Si
+40.91,3,> 3,NA,Alto,Bach,Sí,Indep,Si
+46.41,0,NA,Masc,Medio,Bach,Sí,Dep,Si
+31.64,5,> 3,Masc,Medio,NA,Sí,Indep,Si
+25.27,1,<= 3,Fem,Alto,Univ,Sí,Dep,Si
+30.46,5,NA,NA,Alto,Bach,NA,NA,Si
+48.36,4,> 3,NA,Alto,Bach,No,Dep,Si
+45.79,2,<= 3,Fem,Medio,Univ,No,Dep,Si
+37.36,0,<= 3,Fem,Alto,Univ,No,Dep,Si
+NA,1,> 3,Fem,Medio,Bach,Sí,Dep,Si
+35.76,1,> 3,Masc,Bajo,Bach,NA,Indep,No
+25.1,6,> 3,Fem,Medio,Univ,Sí,NA,Si
+26.4,1,> 3,Masc,Bajo,Bach,Sí,Indep,No
+22.26,0,> 3,Masc,Medio,Bach,Sí,Indep,Si
+23.12,3,<= 3,Masc,Alto,Bach,Sí,Dep,Si
+38.95,6,<= 3,Masc,Medio,Bach,Sí,Dep,Si
+25.66,1,> 3,Fem,Medio,Univ,NA,Indep,No
+38.95,3,NA,Masc,Medio,Bach,Sí,Indep,Si
+45.57,NA,> 3,Masc,Medio,NA,Sí,Indep,Si
+24.91,3,<= 3,Masc,NA,Bach,Sí,Dep,No
+35.3,1,<= 3,Masc,Medio,Bach,NA,Dep,Si
+31.77,0,> 3,Fem,NA,NA,NA,NA,No
